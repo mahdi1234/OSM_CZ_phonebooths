@@ -1,0 +1,6542 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.9 76e5016d",
+  "osm3s": {
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4750657909,
+  "lat": 49.2150369,
+  "lon": 13.1602846,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3881197562,
+  "lat": 49.1052158,
+  "lon": 13.3796542,
+  "tags": {
+    "amenity": "telephone",
+    "name:de": "Telefonzelle"
+  }
+},
+{
+  "type": "node",
+  "id": 7033868120,
+  "lat": 49.3603531,
+  "lon": 13.3538269,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "booth"
+  }
+},
+{
+  "type": "node",
+  "id": 3907979030,
+  "lat": 49.6139282,
+  "lon": 12.8356413,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420379496550"
+  }
+},
+{
+  "type": "node",
+  "id": 3907979027,
+  "lat": 49.5861257,
+  "lon": 12.9944499,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420379493192"
+  }
+},
+{
+  "type": "node",
+  "id": 2627616134,
+  "lat": 49.6599821,
+  "lon": 12.9699798,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420374695115",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3907979033,
+  "lat": 49.6473202,
+  "lon": 12.9961585,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420374695174"
+  }
+},
+{
+  "type": "node",
+  "id": 3907979766,
+  "lat": 49.8891215,
+  "lon": 12.6039781,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420374782462"
+  }
+},
+{
+  "type": "node",
+  "id": 3907979047,
+  "lat": 49.7722283,
+  "lon": 12.8558500,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420374693203"
+  }
+},
+{
+  "type": "node",
+  "id": 2186431757,
+  "lat": 49.6307539,
+  "lon": 13.1353066,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1507216403,
+  "lat": 49.5306751,
+  "lon": 13.3169739,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "payment:telephone_cards": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1551750294,
+  "lat": 49.5476958,
+  "lon": 13.3680533,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefonica O2",
+    "payment:telephone_cards": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 5659326813,
+  "lat": 49.5730101,
+  "lon": 13.3272049,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2254428056,
+  "lat": 49.6441369,
+  "lon": 13.2485140,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420377972842",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2707631132,
+  "lat": 49.6551130,
+  "lon": 13.2918230,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 859419873,
+  "lat": 49.6948924,
+  "lon": 13.2571922,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2707571470,
+  "lat": 49.6860147,
+  "lon": 13.2942595,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1447890093,
+  "lat": 49.6948008,
+  "lon": 13.3513679,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefonica O2",
+    "payment:coins": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2685853270,
+  "lat": 49.7171499,
+  "lon": 13.4070445,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 3907979045,
+  "lat": 49.7642636,
+  "lon": 13.0412749,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420374624583"
+  }
+},
+{
+  "type": "node",
+  "id": 3907979049,
+  "lat": 49.7917175,
+  "lon": 13.0149211,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420374624500"
+  }
+},
+{
+  "type": "node",
+  "id": 2242633791,
+  "lat": 49.7324994,
+  "lon": 13.3121374,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2753476494,
+  "lat": 49.7558519,
+  "lon": 13.3069106,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 2472759187,
+  "lat": 49.7439244,
+  "lon": 13.3287876,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2510875129,
+  "lat": 49.7428914,
+  "lon": 13.3299013,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3151775543,
+  "lat": 49.7448211,
+  "lon": 13.3272043,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2475742923,
+  "lat": 49.7272191,
+  "lon": 13.3439641,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620299742,
+  "lat": 49.7301336,
+  "lon": 13.3448153,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3595169366,
+  "lat": 49.7266086,
+  "lon": 13.3628371,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2260729780,
+  "lat": 49.7425910,
+  "lon": 13.3474535,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2804741745,
+  "lat": 49.7363962,
+  "lon": 13.3676935,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2260729794,
+  "lat": 49.7457468,
+  "lon": 13.3228681,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2260729796,
+  "lat": 49.7458051,
+  "lon": 13.3211265,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2753476615,
+  "lat": 49.7646693,
+  "lon": 13.3204144,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 2474842222,
+  "lat": 49.7635632,
+  "lon": 13.3238076,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2264876585,
+  "lat": 49.7458760,
+  "lon": 13.3444356,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2264876598,
+  "lat": 49.7463126,
+  "lon": 13.3484227,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 553035797,
+  "lat": 49.7461679,
+  "lon": 13.3635708,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2537197908,
+  "lat": 49.7480324,
+  "lon": 13.3639948,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2705879174,
+  "lat": 49.7499784,
+  "lon": 13.3665603,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2836808753,
+  "lat": 49.7474429,
+  "lon": 13.3656086,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2238630166,
+  "lat": 49.7578736,
+  "lon": 13.3604076,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2474916422,
+  "lat": 49.7616553,
+  "lon": 13.3536740,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2474943634,
+  "lat": 49.7675199,
+  "lon": 13.3635313,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2687643506,
+  "lat": 49.7707242,
+  "lon": 13.3669285,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 4144499422,
+  "lat": 49.7681102,
+  "lon": 13.3648937,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3102875469,
+  "lat": 49.7194174,
+  "lon": 13.3816338,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2738196660,
+  "lat": 49.7312959,
+  "lon": 13.3705506,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 3102875472,
+  "lat": 49.7221144,
+  "lon": 13.3843001,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 3102875473,
+  "lat": 49.7266745,
+  "lon": 13.3870087,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2661690577,
+  "lat": 49.7309053,
+  "lon": 13.3947609,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2786147555,
+  "lat": 49.7362229,
+  "lon": 13.3780491,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2786147556,
+  "lat": 49.7373001,
+  "lon": 13.3795763,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2786147563,
+  "lat": 49.7427737,
+  "lon": 13.3754824,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2804741775,
+  "lat": 49.7421044,
+  "lon": 13.3721292,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2472759148,
+  "lat": 49.7431583,
+  "lon": 13.3783042,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2472759224,
+  "lat": 49.7449077,
+  "lon": 13.3776278,
+  "tags": {
+    "amenity": "telephone",
+    "check_date": "2021-02-22",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 330863019,
+  "lat": 49.7374828,
+  "lon": 13.3933165,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2223716929,
+  "lat": 49.7329500,
+  "lon": 13.3928000,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "payment:coins": "yes",
+    "payment:telephone_cards": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4891839352,
+  "lat": 49.7357967,
+  "lon": 13.3897328,
+  "tags": {
+    "amenity": "telephone",
+    "payment:coins": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2167190094,
+  "lat": 49.7444711,
+  "lon": 13.3871869,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2475742994,
+  "lat": 49.7439702,
+  "lon": 13.3846408,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 330862880,
+  "lat": 49.7389079,
+  "lon": 13.3932409,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 4081548587,
+  "lat": 49.7408923,
+  "lon": 13.3937220,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601201055,
+  "lat": 49.7238362,
+  "lon": 13.4001022,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2475742914,
+  "lat": 49.7254737,
+  "lon": 13.4021171,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620299760,
+  "lat": 49.7304307,
+  "lon": 13.4064825,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620299884,
+  "lat": 49.7319039,
+  "lon": 13.4067794,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620299618,
+  "lat": 49.7279558,
+  "lon": 13.4128108,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2747848435,
+  "lat": 49.7311019,
+  "lon": 13.4208890,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 2475742957,
+  "lat": 49.7328514,
+  "lon": 13.3994698,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2475742958,
+  "lat": 49.7329421,
+  "lon": 13.4010986,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2475742961,
+  "lat": 49.7350660,
+  "lon": 13.3982021,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2475742962,
+  "lat": 49.7365224,
+  "lon": 13.3967873,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2661690578,
+  "lat": 49.7326398,
+  "lon": 13.3960742,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620299998,
+  "lat": 49.7336649,
+  "lon": 13.4086322,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2638296240,
+  "lat": 49.7354226,
+  "lon": 13.4050150,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 330861732,
+  "lat": 49.7391520,
+  "lon": 13.3961334,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2223716933,
+  "lat": 49.7427667,
+  "lon": 13.4126667,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "payment:coins": "yes",
+    "payment:telephone_cards": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2131345845,
+  "lat": 49.7475105,
+  "lon": 13.3733968,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2472759268,
+  "lat": 49.7463628,
+  "lon": 13.3737040,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2472759293,
+  "lat": 49.7484888,
+  "lon": 13.3756052,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2472759260,
+  "lat": 49.7462990,
+  "lon": 13.3796760,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2475743007,
+  "lat": 49.7466193,
+  "lon": 13.3772397,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2642791722,
+  "lat": 49.7543194,
+  "lon": 13.3771423,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2687643488,
+  "lat": 49.7674188,
+  "lon": 13.3719756,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 2821138417,
+  "lat": 49.7691466,
+  "lon": 13.3737970,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2821138419,
+  "lat": 49.7703932,
+  "lon": 13.3733142,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2456894876,
+  "lat": 49.7566891,
+  "lon": 13.4041613,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2804828989,
+  "lat": 49.7483331,
+  "lon": 13.4087189,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2687626796,
+  "lat": 49.7490716,
+  "lon": 13.4188814,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 2687626822,
+  "lat": 49.7570019,
+  "lon": 13.4210203,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 2804830115,
+  "lat": 49.7546700,
+  "lon": 13.4155653,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2804830136,
+  "lat": 49.7585552,
+  "lon": 13.4206066,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2241352490,
+  "lat": 49.7775659,
+  "lon": 13.3552986,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2660003560,
+  "lat": 49.7764186,
+  "lon": 13.3637067,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2660003605,
+  "lat": 49.7770254,
+  "lon": 13.3632014,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2660003661,
+  "lat": 49.7779617,
+  "lon": 13.3675860,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2660003794,
+  "lat": 49.7800073,
+  "lon": 13.3690094,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2660003833,
+  "lat": 49.7804420,
+  "lon": 13.3658261,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2821138466,
+  "lat": 49.7752998,
+  "lon": 13.3728512,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2283381292,
+  "lat": 49.7801427,
+  "lon": 13.3730682,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2293006181,
+  "lat": 49.7821133,
+  "lon": 13.3724228,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2237283944,
+  "lat": 49.7829924,
+  "lon": 13.3829491,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3907979760,
+  "lat": 49.8618697,
+  "lon": 13.2371727,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420377915333"
+  }
+},
+{
+  "type": "node",
+  "id": 3907864977,
+  "lat": 50.0836330,
+  "lon": 12.5218053,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420354595138"
+  }
+},
+{
+  "type": "node",
+  "id": 3907864999,
+  "lat": 50.1962128,
+  "lon": 12.3715323,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420354596099"
+  }
+},
+{
+  "type": "node",
+  "id": 3907865013,
+  "lat": 50.2552133,
+  "lon": 12.2015287,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420354527340"
+  }
+},
+{
+  "type": "node",
+  "id": 3907979773,
+  "lat": 49.9529253,
+  "lon": 12.7798921,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420354627055"
+  }
+},
+{
+  "type": "node",
+  "id": 3907864976,
+  "lat": 50.0694961,
+  "lon": 12.8629323,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420353999628"
+  }
+},
+{
+  "type": "node",
+  "id": 3907865015,
+  "lat": 50.2766594,
+  "lon": 12.6971611,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420352675733"
+  }
+},
+{
+  "type": "node",
+  "id": 3907864987,
+  "lat": 50.1487083,
+  "lon": 12.8523070,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420353972392"
+  }
+},
+{
+  "type": "node",
+  "id": 3678818824,
+  "lat": 49.0238182,
+  "lon": 13.4985395,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 4672428994,
+  "lat": 49.0870995,
+  "lon": 13.4811403,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 5511489321,
+  "lat": 49.0541454,
+  "lon": 13.5640429,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 287040827,
+  "lat": 49.0677970,
+  "lon": 13.6249951,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 560900392,
+  "lat": 48.9076258,
+  "lon": 13.7208924,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3678958667,
+  "lat": 48.9899745,
+  "lon": 13.6597100,
+  "tags": {
+    "amenity": "telephone",
+    "phone": "+420 388434101"
+  }
+},
+{
+  "type": "node",
+  "id": 4061923654,
+  "lat": 49.0387982,
+  "lon": 13.6460118,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 3922206154,
+  "lat": 48.7379156,
+  "lon": 14.1077686,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420380744220"
+  }
+},
+{
+  "type": "node",
+  "id": 3880890783,
+  "lat": 49.0126087,
+  "lon": 14.0018485,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 7476785515,
+  "lat": 49.0100921,
+  "lon": 14.2336328,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "yes",
+    "currency:EUR": "yes",
+    "fee": "yes",
+    "indoor": "no",
+    "operator": "O2",
+    "payment:coins": "yes",
+    "phone": "+420388324943",
+    "sms": "yes",
+    "source:date": "2020-05-03",
+    "video": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3922206122,
+  "lat": 48.6549525,
+  "lon": 14.3669603,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420380749848"
+  }
+},
+{
+  "type": "node",
+  "id": 3922206147,
+  "lat": 48.7009287,
+  "lon": 14.3889532,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420380327165"
+  }
+},
+{
+  "type": "node",
+  "id": 3922206678,
+  "lat": 48.7748550,
+  "lon": 14.4674192,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420380321156"
+  }
+},
+{
+  "type": "node",
+  "id": 7099374763,
+  "lat": 48.8048583,
+  "lon": 14.3118899,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 3610294194,
+  "lat": 48.8096790,
+  "lon": 14.3143268,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 7133447528,
+  "lat": 48.8238651,
+  "lon": 14.3293417,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "yes",
+    "indoor": "no",
+    "level": "0",
+    "operator": "O2",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4268043939,
+  "lat": 48.8346260,
+  "lon": 14.4062266,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2 a.s.",
+    "payment:coins": "yes",
+    "payment:telephone_cards": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3922206687,
+  "lat": 48.8543353,
+  "lon": 14.4106046,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420380743792"
+  }
+},
+{
+  "type": "node",
+  "id": 3922206149,
+  "lat": 48.7290892,
+  "lon": 14.6255831,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420380322260"
+  }
+},
+{
+  "type": "node",
+  "id": 4885340128,
+  "lat": 48.7796604,
+  "lon": 14.6706624,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "payment:coins": "yes",
+    "payment:telephone_cards": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2372703065,
+  "lat": 48.9047352,
+  "lon": 14.3045872,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 2372664647,
+  "lat": 48.9477071,
+  "lon": 14.3339704,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "yes",
+    "fee": "yes",
+    "indoor": "no",
+    "payment:telephone_cards": "yes",
+    "phone": "+420387992192",
+    "sms": "yes",
+    "source:date": "2020-05-03",
+    "video": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2372664658,
+  "lat": 48.9571294,
+  "lon": 14.3313599,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "yes",
+    "fee": "yes",
+    "indoor": "no",
+    "payment:telephone_cards": "yes",
+    "phone": "+420387222489",
+    "sms": "yes",
+    "source:date": "2020-05-03",
+    "video": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2371990974,
+  "lat": 48.9505797,
+  "lon": 14.3523594,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 4414490937,
+  "lat": 48.9910571,
+  "lon": 14.2674566,
+  "tags": {
+    "amenity": "telephone",
+    "payment:coins": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6269987817,
+  "lat": 49.0118037,
+  "lon": 14.2658588,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "yes",
+    "fee": "yes",
+    "indoor": "no",
+    "operator": "O2",
+    "payment:telephone_cards": "yes",
+    "phone": "+420387982012",
+    "sms": "yes",
+    "source:date": "2020-05-03",
+    "video": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4705698671,
+  "lat": 49.0031977,
+  "lon": 14.3349142,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4705498361,
+  "lat": 49.0682204,
+  "lon": 14.2637173,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 3919564152,
+  "lat": 49.0511584,
+  "lon": 14.4396146,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 7476408807,
+  "lat": 48.9113581,
+  "lon": 14.5039930,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "yes",
+    "fee": "yes",
+    "indoor": "no",
+    "lit": "yes",
+    "operator": "O2",
+    "payment:telephone_cards": "yes",
+    "phone": "+420387988596",
+    "sms": "yes",
+    "source:date": "2020-05-03",
+    "video": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7476785514,
+  "lat": 48.8807470,
+  "lon": 14.6002477,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "yes",
+    "fee": "yes",
+    "indoor": "no",
+    "operator": "O2",
+    "payment:telephone_cards": "yes",
+    "phone": "+420386321490",
+    "sms": "yes",
+    "source:date": "2020-05-03",
+    "video": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 913517430,
+  "lat": 48.9335270,
+  "lon": 14.6196331,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "payment:coins": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 913908932,
+  "lat": 48.9326236,
+  "lon": 14.6221288,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2508331895,
+  "lat": 48.7610467,
+  "lon": 14.7337385,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "payment:coins": "yes",
+    "payment:credit_cards": "no",
+    "payment:debit_cards": "no",
+    "payment:electronic_purses": "no",
+    "payment:notes": "no",
+    "payment:telephone_cards": "no",
+    "phone": "+420386327109",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4361261390,
+  "lat": 48.8787405,
+  "lon": 14.9335191,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3935984312,
+  "lat": 48.9698718,
+  "lon": 14.6842144,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 1305882672,
+  "lat": 49.0072728,
+  "lon": 14.7578784,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2404901872,
+  "lat": 49.0035711,
+  "lon": 14.7642851,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 1305612397,
+  "lat": 49.0043954,
+  "lon": 14.7727391,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1306024234,
+  "lat": 49.0817397,
+  "lon": 14.7182013,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420384792489",
+    "source": "knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 2725150210,
+  "lat": 49.0617990,
+  "lon": 14.7551268,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420 384 792 500",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4308187037,
+  "lat": 49.0513472,
+  "lon": 14.9374899,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "yes",
+    "operator": "O2",
+    "payment:coins": "no",
+    "payment:telephone_cards": "yes",
+    "phone": "+420 384 389 488"
+  }
+},
+{
+  "type": "node",
+  "id": 3922630584,
+  "lat": 49.0692069,
+  "lon": 14.9069905,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420384389180"
+  }
+},
+{
+  "type": "node",
+  "id": 3922630585,
+  "lat": 49.0743139,
+  "lon": 14.9700404,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420384380178"
+  }
+},
+{
+  "type": "node",
+  "id": 7011603859,
+  "lat": 49.1244387,
+  "lon": 13.6194406,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "booth"
+  }
+},
+{
+  "type": "node",
+  "id": 7007834836,
+  "lat": 49.1731643,
+  "lon": 13.6123690,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "booth"
+  }
+},
+{
+  "type": "node",
+  "id": 3252272827,
+  "lat": 49.2315388,
+  "lon": 13.5201962,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "payment:coins": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2666736245,
+  "lat": 49.2378617,
+  "lon": 13.5217785,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "payment:coins": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3710401226,
+  "lat": 49.2687572,
+  "lon": 13.4344097,
+  "tags": {
+    "amenity": "telephone",
+    "phone": "376594901"
+  }
+},
+{
+  "type": "node",
+  "id": 6986783277,
+  "lat": 49.2749694,
+  "lon": 13.4565756,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "booth"
+  }
+},
+{
+  "type": "node",
+  "id": 7020275274,
+  "lat": 49.2835320,
+  "lon": 13.5850279,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "booth"
+  }
+},
+{
+  "type": "node",
+  "id": 7448469955,
+  "lat": 49.1412765,
+  "lon": 13.7159983,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "booth",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 7008944719,
+  "lat": 49.2892124,
+  "lon": 13.6744219,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "booth"
+  }
+},
+{
+  "type": "node",
+  "id": 7003991513,
+  "lat": 49.2486833,
+  "lon": 13.7065628,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "booth"
+  }
+},
+{
+  "type": "node",
+  "id": 7008625858,
+  "lat": 49.2711640,
+  "lon": 13.7176283,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "booth"
+  }
+},
+{
+  "type": "node",
+  "id": 7026363190,
+  "lat": 49.2686711,
+  "lon": 13.7633083,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "booth"
+  }
+},
+{
+  "type": "node",
+  "id": 5366734609,
+  "lat": 49.3366186,
+  "lon": 13.4908756,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420376396901"
+  }
+},
+{
+  "type": "node",
+  "id": 3216023008,
+  "lat": 49.3314551,
+  "lon": 13.5468752,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 7033747361,
+  "lat": 49.3229636,
+  "lon": 13.5967211,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "booth"
+  }
+},
+{
+  "type": "node",
+  "id": 1557669194,
+  "lat": 49.3472187,
+  "lon": 13.6178420,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey;uhul:ortofoto"
+  }
+},
+{
+  "type": "node",
+  "id": 1406819014,
+  "lat": 49.5016244,
+  "lon": 13.5763643,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420 371 592 691",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 7039190501,
+  "lat": 49.3639118,
+  "lon": 13.7027594,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "booth"
+  }
+},
+{
+  "type": "node",
+  "id": 5941440356,
+  "lat": 49.4371727,
+  "lon": 13.8098265,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "booth"
+  }
+},
+{
+  "type": "node",
+  "id": 1864839412,
+  "lat": 49.2552942,
+  "lon": 13.9151624,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 5503549460,
+  "lat": 49.0919016,
+  "lon": 14.2245855,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 5352253378,
+  "lat": 49.1536486,
+  "lon": 14.2299248,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420383381109"
+  }
+},
+{
+  "type": "node",
+  "id": 3966768552,
+  "lat": 49.4300409,
+  "lon": 14.0373716,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420382229390"
+  }
+},
+{
+  "type": "node",
+  "id": 5514480224,
+  "lat": 49.3644891,
+  "lon": 14.0541932,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2390056334,
+  "lat": 49.5210025,
+  "lon": 13.5080496,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1837449291,
+  "lat": 49.5842639,
+  "lon": 13.4700204,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 1406770465,
+  "lat": 49.5497055,
+  "lon": 13.5734555,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420 371 522 964",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3921306513,
+  "lat": 49.6399353,
+  "lon": 13.5223998,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420377891102"
+  }
+},
+{
+  "type": "node",
+  "id": 2169659172,
+  "lat": 49.6306073,
+  "lon": 13.5277134,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2687626801,
+  "lat": 49.7534716,
+  "lon": 13.4228782,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 2687626832,
+  "lat": 49.7584343,
+  "lon": 13.4237883,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 325200485,
+  "lat": 49.8764466,
+  "lon": 13.5752807,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "payment:coins": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4796715278,
+  "lat": 49.5380426,
+  "lon": 13.9832899,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 7359282801,
+  "lat": 49.7999150,
+  "lon": 13.9460827,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420 318 692 113"
+  }
+},
+{
+  "type": "node",
+  "id": 2649346624,
+  "lat": 49.2224933,
+  "lon": 14.4205292,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 4218887366,
+  "lat": 49.2237121,
+  "lon": 14.4195010,
+  "tags": {
+    "amenity": "telephone",
+    "payment:coins": "yes",
+    "payment:telephone_cards": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 504484079,
+  "lat": 49.2957122,
+  "lon": 14.3879366,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 7565000292,
+  "lat": 49.2955663,
+  "lon": 14.4681438,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 5573459262,
+  "lat": 49.1036859,
+  "lon": 14.6176107,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 4797223103,
+  "lat": 49.2503012,
+  "lon": 14.5941695,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 3904064143,
+  "lat": 49.3933358,
+  "lon": 14.3234053,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420382589145"
+  }
+},
+{
+  "type": "node",
+  "id": 3904063927,
+  "lat": 49.4025541,
+  "lon": 14.3390258,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420382589127"
+  }
+},
+{
+  "type": "node",
+  "id": 1665027853,
+  "lat": 49.3430779,
+  "lon": 14.3920428,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 5352253374,
+  "lat": 49.5026865,
+  "lon": 14.4793414,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420381272125"
+  }
+},
+{
+  "type": "node",
+  "id": 3788899982,
+  "lat": 49.4140971,
+  "lon": 14.6755636,
+  "tags": {
+    "amenity": "telephone",
+    "source": "local knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 1306116577,
+  "lat": 49.1867009,
+  "lon": 14.6992747,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2469059926,
+  "lat": 49.1386795,
+  "lon": 15.0032141,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefonica O2",
+    "payment:coins": "yes",
+    "payment:notes": "no",
+    "payment:telephone_cards": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1277982300,
+  "lat": 49.1416861,
+  "lon": 15.0959080,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "payment:telephone_cards": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1132527492,
+  "lat": 49.1440862,
+  "lon": 15.0030191,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2421885157,
+  "lat": 49.1475166,
+  "lon": 15.0016370,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 3922630606,
+  "lat": 49.1712461,
+  "lon": 15.0572117,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420384396481"
+  }
+},
+{
+  "type": "node",
+  "id": 3922631013,
+  "lat": 49.1896786,
+  "lon": 15.0662412,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420384396397"
+  }
+},
+{
+  "type": "node",
+  "id": 2471913165,
+  "lat": 49.2654094,
+  "lon": 14.9245014,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "payment:coins": "yes",
+    "payment:telephone_cards": "yes",
+    "phone": "+420384384298"
+  }
+},
+{
+  "type": "node",
+  "id": 1316677233,
+  "lat": 49.3756471,
+  "lon": 14.6942688,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3784501148,
+  "lat": 49.3770321,
+  "lon": 14.7001197,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 2060199755,
+  "lat": 49.3905734,
+  "lon": 14.6823798,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 5717958321,
+  "lat": 49.3908284,
+  "lon": 14.6853648,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 3922206879,
+  "lat": 49.3099411,
+  "lon": 14.9482820,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420565436803"
+  }
+},
+{
+  "type": "node",
+  "id": 2552438358,
+  "lat": 49.3260256,
+  "lon": 14.9700463,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420 565 492 435",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2541284815,
+  "lat": 49.3060001,
+  "lon": 15.0392344,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "payment:coins": "yes",
+    "phone": "+420 565 432 864",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2552275968,
+  "lat": 49.2999180,
+  "lon": 15.0762320,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420 565 433 241",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2552298143,
+  "lat": 49.3025104,
+  "lon": 15.0781268,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420 565 433 244",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3481188878,
+  "lat": 49.4162972,
+  "lon": 15.0421202,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1244127532,
+  "lat": 49.5099986,
+  "lon": 14.6583769,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1306159375,
+  "lat": 49.5712099,
+  "lon": 14.6583435,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 302685076,
+  "lat": 49.5652570,
+  "lon": 14.8653516,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 516955943,
+  "lat": 49.5966969,
+  "lon": 14.8403464,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 7286051858,
+  "lat": 49.8715342,
+  "lon": 14.9154210,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420 327 321 846"
+  }
+},
+{
+  "type": "node",
+  "id": 437368801,
+  "lat": 48.9807141,
+  "lon": 15.5346375,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2615311323,
+  "lat": 48.9678347,
+  "lon": 15.5883671,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 7741415227,
+  "lat": 48.9320285,
+  "lon": 15.6879163,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 7744184143,
+  "lat": 48.9408681,
+  "lon": 15.6898882,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 2443575650,
+  "lat": 48.9373481,
+  "lon": 15.7293253,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3007301995,
+  "lat": 49.1340746,
+  "lon": 15.4171924,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 3007302031,
+  "lat": 49.1480107,
+  "lon": 15.4289865,
+  "tags": {
+    "amenity": "telephone",
+    "payment:telephone_cards": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1126883608,
+  "lat": 49.3981340,
+  "lon": 15.2440838,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1764496242,
+  "lat": 49.3761611,
+  "lon": 15.4903268,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 5584125084,
+  "lat": 49.2000301,
+  "lon": 15.5311091,
+  "tags": {
+    "amenity": "telephone",
+    "indoor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5628307331,
+  "lat": 49.2139667,
+  "lon": 15.6120143,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 2209686544,
+  "lat": 49.2842632,
+  "lon": 15.8071751,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 1493479602,
+  "lat": 49.4598441,
+  "lon": 15.7053960,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 477363283,
+  "lat": 49.6491665,
+  "lon": 15.3371497,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 8668096078,
+  "lat": 49.6992399,
+  "lon": 15.3328445,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "booth"
+  }
+},
+{
+  "type": "node",
+  "id": 2000451815,
+  "lat": 49.7707442,
+  "lon": 15.2710913,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 8668096081,
+  "lat": 49.7255872,
+  "lon": 15.3237404,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "booth"
+  }
+},
+{
+  "type": "node",
+  "id": 6124089992,
+  "lat": 49.5495422,
+  "lon": 15.7652675,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 331360039,
+  "lat": 49.6525311,
+  "lon": 15.8739998,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 6586956023,
+  "lat": 49.8601268,
+  "lon": 15.5283454,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 2609307354,
+  "lat": 49.8947390,
+  "lon": 15.5648409,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "source": "gps"
+  }
+},
+{
+  "type": "node",
+  "id": 6550843668,
+  "lat": 49.1097465,
+  "lon": 16.2199737,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "booth"
+  }
+},
+{
+  "type": "node",
+  "id": 4809205721,
+  "lat": 49.3792670,
+  "lon": 16.0788938,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 6109332990,
+  "lat": 49.4684332,
+  "lon": 16.0903812,
+  "tags": {
+    "amenity": "telephone",
+    "payment:coins": "yes",
+    "phone": "566673135"
+  }
+},
+{
+  "type": "node",
+  "id": 8592614085,
+  "lat": 49.4407944,
+  "lon": 16.2565403,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 6710934479,
+  "lat": 49.3916307,
+  "lon": 16.5502942,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3890890300,
+  "lat": 49.4436983,
+  "lon": 16.4585166,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2091317557,
+  "lat": 49.5012914,
+  "lon": 16.4100206,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 1663154406,
+  "lat": 49.5822851,
+  "lon": 15.9659192,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 287406016,
+  "lat": 49.6911639,
+  "lon": 16.1180898,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 4097897362,
+  "lat": 49.7081567,
+  "lon": 16.1381633,
+  "tags": {
+    "amenity": "telephone",
+    "source": "gps"
+  }
+},
+{
+  "type": "node",
+  "id": 3324977388,
+  "lat": 49.7611865,
+  "lon": 15.9864561,
+  "tags": {
+    "amenity": "telephone",
+    "payment:telephone_cards": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6470183619,
+  "lat": 49.5875537,
+  "lon": 16.4225254,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 4455727529,
+  "lat": 49.6521862,
+  "lon": 16.7083524,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 4350724290,
+  "lat": 49.6918728,
+  "lon": 16.7645851,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 4266324591,
+  "lat": 48.9800273,
+  "lon": 17.8800912,
+  "tags": {
+    "amenity": "telephone",
+    "phone": "572696202"
+  }
+},
+{
+  "type": "node",
+  "id": 3065835180,
+  "lat": 49.4088643,
+  "lon": 16.9019068,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3065835382,
+  "lat": 49.4549341,
+  "lon": 16.8902904,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2966874309,
+  "lat": 49.4955488,
+  "lon": 16.9334611,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 6017206857,
+  "lat": 49.1382897,
+  "lon": 17.3496829,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 3111408438,
+  "lat": 49.6000517,
+  "lon": 16.9145572,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3128351834,
+  "lat": 49.6097280,
+  "lon": 16.9390758,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3101112787,
+  "lat": 49.6627321,
+  "lon": 16.7869848,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3101589180,
+  "lat": 49.6645264,
+  "lon": 16.8092445,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3113652959,
+  "lat": 49.6795401,
+  "lon": 16.8153157,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 6797460480,
+  "lat": 49.8200920,
+  "lon": 16.8298993,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 4427603051,
+  "lat": 49.6694684,
+  "lon": 17.4391066,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3977652286,
+  "lat": 49.7091164,
+  "lon": 17.7658825,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420556748292"
+  }
+},
+{
+  "type": "node",
+  "id": 5646155960,
+  "lat": 49.8175948,
+  "lon": 17.6942486,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 7864942648,
+  "lat": 50.2305673,
+  "lon": 13.6098486,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4210732135,
+  "lat": 49.9688706,
+  "lon": 14.1335899,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 2031572603,
+  "lat": 50.1626564,
+  "lon": 14.2577831,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 4952190134,
+  "lat": 50.4574489,
+  "lon": 13.5069078,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420474685164"
+  }
+},
+{
+  "type": "node",
+  "id": 3903503897,
+  "lat": 50.6350306,
+  "lon": 13.5571722,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420476116017"
+  }
+},
+{
+  "type": "node",
+  "id": 3903503913,
+  "lat": 50.7190603,
+  "lon": 13.6879469,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420417878060"
+  }
+},
+{
+  "type": "node",
+  "id": 3903503877,
+  "lat": 50.5850836,
+  "lon": 13.9651090,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420417872023"
+  }
+},
+{
+  "type": "node",
+  "id": 957141331,
+  "lat": 50.5579842,
+  "lon": 14.0780354,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3903503889,
+  "lat": 50.6146757,
+  "lon": 14.1337289,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420472743042"
+  }
+},
+{
+  "type": "node",
+  "id": 3903503901,
+  "lat": 50.6859115,
+  "lon": 14.0915648,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420475507045"
+  }
+},
+{
+  "type": "node",
+  "id": 346244025,
+  "lat": 50.0321879,
+  "lon": 14.3113230,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 390717115,
+  "lat": 50.0287091,
+  "lon": 14.3552473,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2146396344,
+  "lat": 50.0054282,
+  "lon": 14.4051079,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 1504203326,
+  "lat": 50.0085708,
+  "lon": 14.3835663,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 1504210096,
+  "lat": 50.0122858,
+  "lon": 14.3808115,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 1504210098,
+  "lat": 50.0117946,
+  "lon": 14.3876272,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 315996933,
+  "lat": 50.0226318,
+  "lon": 14.4041951,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 323112190,
+  "lat": 49.9937267,
+  "lon": 14.4674952,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 330437374,
+  "lat": 49.9909907,
+  "lon": 14.4688113,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1780057762,
+  "lat": 50.0245052,
+  "lon": 14.4265223,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 854483173,
+  "lat": 50.0174253,
+  "lon": 14.4445296,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "payment:telephone_cards": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 527674700,
+  "lat": 50.0267674,
+  "lon": 14.4467625,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 343688188,
+  "lat": 50.0286920,
+  "lon": 14.4540425,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 346199602,
+  "lat": 50.0822432,
+  "lon": 14.3105895,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "payment:coins": "yes",
+    "payment:telephone_cards": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1769022645,
+  "lat": 50.0572832,
+  "lon": 14.3332355,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 1097935718,
+  "lat": 50.0540205,
+  "lon": 14.3437668,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 929585612,
+  "lat": 50.0753041,
+  "lon": 14.3249291,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1684802055,
+  "lat": 50.0677389,
+  "lon": 14.3417538,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 360638972,
+  "lat": 50.0821652,
+  "lon": 14.3608526,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "source": "norc.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 360910069,
+  "lat": 50.0860619,
+  "lon": 14.3239468,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "source": "norc.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 346198661,
+  "lat": 50.0927850,
+  "lon": 14.3244504,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "source": "uhul:ortofoto"
+  }
+},
+{
+  "type": "node",
+  "id": 4554507362,
+  "lat": 50.0935420,
+  "lon": 14.3502012,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 2575867598,
+  "lat": 50.0897536,
+  "lon": 14.3632809,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 307873205,
+  "lat": 50.0987337,
+  "lon": 14.3639206,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 320804618,
+  "lat": 50.0974718,
+  "lon": 14.3615513,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 473209498,
+  "lat": 50.0965151,
+  "lon": 14.3647284,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 347088073,
+  "lat": 50.0441352,
+  "lon": 14.4013329,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2626403001,
+  "lat": 50.0398044,
+  "lon": 14.4103668,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 387185096,
+  "lat": 50.0343381,
+  "lon": 14.4157257,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2626424027,
+  "lat": 50.0367663,
+  "lon": 14.4115992,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 766151676,
+  "lat": 50.0465330,
+  "lon": 14.4134592,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1221945590,
+  "lat": 50.0509666,
+  "lon": 14.4098626,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 767595395,
+  "lat": 50.0695457,
+  "lon": 14.3665051,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1080405377,
+  "lat": 50.0726026,
+  "lon": 14.3890887,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1080417356,
+  "lat": 50.0720237,
+  "lon": 14.3863258,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1082344542,
+  "lat": 50.0733595,
+  "lon": 14.3730650,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 360656911,
+  "lat": 50.0840722,
+  "lon": 14.3700268,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "source": "norc.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 360673555,
+  "lat": 50.0844803,
+  "lon": 14.3744424,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "source": "norc.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 932604002,
+  "lat": 50.0637590,
+  "lon": 14.3983079,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "payment:telephone_cards": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1684802057,
+  "lat": 50.0722234,
+  "lon": 14.3940057,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 4720298765,
+  "lat": 50.0617564,
+  "lon": 14.4086218,
+  "tags": {
+    "amenity": "telephone",
+    "level": "0"
+  }
+},
+{
+  "type": "node",
+  "id": 4720298766,
+  "lat": 50.0617604,
+  "lon": 14.4086211,
+  "tags": {
+    "amenity": "telephone",
+    "level": "0"
+  }
+},
+{
+  "type": "node",
+  "id": 2936622904,
+  "lat": 50.0707529,
+  "lon": 14.4103608,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 3897780794,
+  "lat": 50.0673943,
+  "lon": 14.4172640,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 317881228,
+  "lat": 50.0751182,
+  "lon": 14.4041081,
+  "tags": {
+    "amenity": "telephone",
+    "note": "2 telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 330642993,
+  "lat": 50.0766575,
+  "lon": 14.4044769,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "source": "CZ:IPRPraha:ortofoto"
+  }
+},
+{
+  "type": "node",
+  "id": 1001866871,
+  "lat": 50.0735616,
+  "lon": 14.4035613,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "payment:coins": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1719887911,
+  "lat": 50.0759225,
+  "lon": 14.4019243,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 305074642,
+  "lat": 50.0813777,
+  "lon": 14.4045998,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 314787150,
+  "lat": 50.0833861,
+  "lon": 14.4043562,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1071061805,
+  "lat": 50.0737560,
+  "lon": 14.4071278,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 331959648,
+  "lat": 50.0784931,
+  "lon": 14.4159992,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 305079350,
+  "lat": 50.0813209,
+  "lon": 14.4077213,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1403098757,
+  "lat": 50.0433091,
+  "lon": 14.4415794,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 1165899034,
+  "lat": 50.0542703,
+  "lon": 14.4182354,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2459099639,
+  "lat": 50.0491963,
+  "lon": 14.4419646,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 318514996,
+  "lat": 50.0578248,
+  "lon": 14.4331244,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3936824170,
+  "lat": 50.0563406,
+  "lon": 14.4341993,
+  "tags": {
+    "amenity": "telephone",
+    "layer": "-1",
+    "level": "-1"
+  }
+},
+{
+  "type": "node",
+  "id": 319861684,
+  "lat": 50.0448585,
+  "lon": 14.4479404,
+  "tags": {
+    "amenity": "telephone",
+    "note": "telefonní automat v podchodu",
+    "operator": "Telefónica O2",
+    "phone": "+420261260288"
+  }
+},
+{
+  "type": "node",
+  "id": 343684129,
+  "lat": 50.0448237,
+  "lon": 14.4480016,
+  "tags": {
+    "amenity": "telephone",
+    "note": "telefonní automat v podchodu",
+    "operator": "Telefónica O2",
+    "phone": "+420261260286"
+  }
+},
+{
+  "type": "node",
+  "id": 366700409,
+  "lat": 50.0454537,
+  "lon": 14.4479100,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "phone": "+420241734069"
+  }
+},
+{
+  "type": "node",
+  "id": 366700413,
+  "lat": 50.0454401,
+  "lon": 14.4478900,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "phone": "+420241733593"
+  }
+},
+{
+  "type": "node",
+  "id": 394693192,
+  "lat": 50.0441537,
+  "lon": 14.4492056,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe, v podchodu",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 290017050,
+  "lat": 50.0421384,
+  "lon": 14.4605975,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dva telefonní automaty",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 344516721,
+  "lat": 50.0420980,
+  "lon": 14.4605391,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dva telefonní automaty",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3504373524,
+  "lat": 50.0472739,
+  "lon": 14.4457742,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1282088746,
+  "lat": 50.0508356,
+  "lon": 14.4535366,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1438166667,
+  "lat": 50.0558602,
+  "lon": 14.4447764,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 1438166670,
+  "lat": 50.0575865,
+  "lon": 14.4465627,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 528743789,
+  "lat": 50.0509285,
+  "lon": 14.4584211,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 539795494,
+  "lat": 50.0658046,
+  "lon": 14.4302489,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 390536956,
+  "lat": 50.0685280,
+  "lon": 14.4229650,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 967521913,
+  "lat": 50.0717597,
+  "lon": 14.4185792,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3897780793,
+  "lat": 50.0677086,
+  "lon": 14.4202719,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 359901084,
+  "lat": 50.0720254,
+  "lon": 14.4299338,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1269915368,
+  "lat": 50.0704070,
+  "lon": 14.4295577,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2202099058,
+  "lat": 50.0723744,
+  "lon": 14.4262396,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 2273222999,
+  "lat": 50.0622668,
+  "lon": 14.4359466,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 518149358,
+  "lat": 50.0639639,
+  "lon": 14.4410798,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "source": "norc.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 539007642,
+  "lat": 50.0650071,
+  "lon": 14.4391773,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 359924185,
+  "lat": 50.0723414,
+  "lon": 14.4334319,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 714186399,
+  "lat": 50.0724254,
+  "lon": 14.4431469,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 305806058,
+  "lat": 50.0773991,
+  "lon": 14.4192729,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 340224216,
+  "lat": 50.0758969,
+  "lon": 14.4208191,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 415004423,
+  "lat": 50.0786788,
+  "lon": 14.4197467,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 418831363,
+  "lat": 50.0753660,
+  "lon": 14.4238918,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 418958904,
+  "lat": 50.0757152,
+  "lon": 14.4221691,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 679495738,
+  "lat": 50.0741621,
+  "lon": 14.4186474,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2865756603,
+  "lat": 50.0732372,
+  "lon": 14.4212748,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 305304730,
+  "lat": 50.0757831,
+  "lon": 14.4292921,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 305808399,
+  "lat": 50.0754765,
+  "lon": 14.4261933,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 359945659,
+  "lat": 50.0735732,
+  "lon": 14.4280207,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 390354465,
+  "lat": 50.0738417,
+  "lon": 14.4308107,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1208804230,
+  "lat": 50.0771110,
+  "lon": 14.4288091,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2116433703,
+  "lat": 50.0769864,
+  "lon": 14.4248065,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 3347435034,
+  "lat": 50.0793156,
+  "lon": 14.4298555,
+  "tags": {
+    "amenity": "telephone",
+    "layer": "-1"
+  }
+},
+{
+  "type": "node",
+  "id": 323123821,
+  "lat": 50.0821594,
+  "lon": 14.4194139,
+  "tags": {
+    "amenity": "telephone",
+    "note": "uvnitř Tesca / inside My cetre building",
+    "operator": "Telefónica O2",
+    "phone": "+420224227094"
+  }
+},
+{
+  "type": "node",
+  "id": 333359737,
+  "lat": 50.0828597,
+  "lon": 14.4216014,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "phone": "+420224947258"
+  }
+},
+{
+  "type": "node",
+  "id": 340030462,
+  "lat": 50.0797373,
+  "lon": 14.4232420,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 343683050,
+  "lat": 50.0803039,
+  "lon": 14.4199881,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 366481631,
+  "lat": 50.0828644,
+  "lon": 14.4216183,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "phone": "+420224946662"
+  }
+},
+{
+  "type": "node",
+  "id": 821153193,
+  "lat": 50.0839772,
+  "lon": 14.4242239,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 305773874,
+  "lat": 50.0828012,
+  "lon": 14.4258117,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 305773875,
+  "lat": 50.0832046,
+  "lon": 14.4246953,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 314789604,
+  "lat": 50.0812322,
+  "lon": 14.4256012,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 320808284,
+  "lat": 50.0815718,
+  "lon": 14.4276773,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 320808285,
+  "lat": 50.0805092,
+  "lon": 14.4291143,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 320808287,
+  "lat": 50.0799226,
+  "lon": 14.4299390,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 344539749,
+  "lat": 50.0794986,
+  "lon": 14.4297006,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 366266031,
+  "lat": 50.0836089,
+  "lon": 14.4305183,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 457719672,
+  "lat": 50.0806351,
+  "lon": 14.4281252,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 4799038028,
+  "lat": 50.0799270,
+  "lon": 14.4299326,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 4799038029,
+  "lat": 50.0795063,
+  "lon": 14.4296897,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 4799113131,
+  "lat": 50.0794937,
+  "lon": 14.4301544,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 6620650291,
+  "lat": 50.0818095,
+  "lon": 14.4265595,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 305817758,
+  "lat": 50.0750407,
+  "lon": 14.4354724,
+  "tags": {
+    "amenity": "telephone",
+    "note": "2 budky vedle sebe",
+    "operator": "Telefónica O2",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 359887571,
+  "lat": 50.0771530,
+  "lon": 14.4319703,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 359908214,
+  "lat": 50.0743554,
+  "lon": 14.4351049,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 359917164,
+  "lat": 50.0732345,
+  "lon": 14.4332801,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 321699912,
+  "lat": 50.0774283,
+  "lon": 14.4389775,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 353196345,
+  "lat": 50.0746526,
+  "lon": 14.4376295,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 369388162,
+  "lat": 50.0731636,
+  "lon": 14.4418489,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2420223904,
+  "lat": 50.0784386,
+  "lon": 14.4416314,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 2475847873,
+  "lat": 50.0744633,
+  "lon": 14.4425973,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 2475847939,
+  "lat": 50.0782225,
+  "lon": 14.4438191,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 2513189528,
+  "lat": 50.0760085,
+  "lon": 14.4439903,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 305305830,
+  "lat": 50.0842537,
+  "lon": 14.4341103,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2798031167,
+  "lat": 50.0842428,
+  "lon": 14.4341037,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 339926031,
+  "lat": 50.0853331,
+  "lon": 14.4414477,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 4735951453,
+  "lat": 50.0649946,
+  "lon": 14.4477760,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 1305960052,
+  "lat": 50.0719013,
+  "lon": 14.4496720,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1305960063,
+  "lat": 50.0726649,
+  "lon": 14.4441889,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 366696632,
+  "lat": 50.0720811,
+  "lon": 14.4534220,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2202478234,
+  "lat": 50.0709842,
+  "lon": 14.4570317,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2260242268,
+  "lat": 50.0723821,
+  "lon": 14.4569445,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 320091565,
+  "lat": 50.0770642,
+  "lon": 14.4443750,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 322990381,
+  "lat": 50.0760654,
+  "lon": 14.4476378,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 322990398,
+  "lat": 50.0753128,
+  "lon": 14.4491885,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 343288303,
+  "lat": 50.0771161,
+  "lon": 14.4499727,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2190213972,
+  "lat": 50.0791998,
+  "lon": 14.4478495,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 2409856185,
+  "lat": 50.0780888,
+  "lon": 14.4459113,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 320045444,
+  "lat": 50.0774915,
+  "lon": 14.4537177,
+  "tags": {
+    "amenity": "telephone",
+    "note": "2 telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 359953907,
+  "lat": 50.0753381,
+  "lon": 14.4537772,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2409213438,
+  "lat": 50.0789387,
+  "lon": 14.4548408,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 2410348764,
+  "lat": 50.0775748,
+  "lon": 14.4522638,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 305825322,
+  "lat": 50.0847114,
+  "lon": 14.4462150,
+  "tags": {
+    "amenity": "telephone",
+    "note": "2 telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 307458966,
+  "lat": 50.0842309,
+  "lon": 14.4499596,
+  "tags": {
+    "amenity": "telephone",
+    "note": "2 telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 320245516,
+  "lat": 50.0828631,
+  "lon": 14.4572090,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2494978592,
+  "lat": 50.0824234,
+  "lon": 14.4518258,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 308835896,
+  "lat": 50.0778037,
+  "lon": 14.4627099,
+  "tags": {
+    "amenity": "telephone",
+    "note": "2 budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 343287067,
+  "lat": 50.0777576,
+  "lon": 14.4579433,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 305832268,
+  "lat": 50.0823811,
+  "lon": 14.4577760,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 342315194,
+  "lat": 50.0820548,
+  "lon": 14.4591828,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 339048937,
+  "lat": 50.0831229,
+  "lon": 14.4640611,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 332453161,
+  "lat": 50.0888775,
+  "lon": 14.3744508,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 308130241,
+  "lat": 50.0989114,
+  "lon": 14.3702212,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 330661401,
+  "lat": 50.0959098,
+  "lon": 14.3769007,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 358465576,
+  "lat": 50.0983468,
+  "lon": 14.3755958,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 330656643,
+  "lat": 50.0880758,
+  "lon": 14.3838468,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 303368985,
+  "lat": 50.0996812,
+  "lon": 14.3758294,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 338504971,
+  "lat": 50.1105443,
+  "lon": 14.3785837,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 332441509,
+  "lat": 50.1006298,
+  "lon": 14.3849158,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 303437978,
+  "lat": 50.1004921,
+  "lon": 14.3908564,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 308375865,
+  "lat": 50.1031352,
+  "lon": 14.3903631,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 305223584,
+  "lat": 50.0878155,
+  "lon": 14.4041472,
+  "tags": {
+    "amenity": "telephone",
+    "note": "2 automaty vedle sebe",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 355300563,
+  "lat": 50.0982098,
+  "lon": 14.3949072,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 354984785,
+  "lat": 50.0978759,
+  "lon": 14.4026275,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 307318793,
+  "lat": 50.0909727,
+  "lon": 14.4095392,
+  "tags": {
+    "amenity": "telephone",
+    "note": "automat dole v podchodu",
+    "operator": "Telefónica O2",
+    "phone": "+420257530376"
+  }
+},
+{
+  "type": "node",
+  "id": 552444746,
+  "lat": 50.0883754,
+  "lon": 14.4165187,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3175113013,
+  "lat": 50.0884138,
+  "lon": 14.4161091,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 307328071,
+  "lat": 50.0999324,
+  "lon": 14.3968190,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "phone": "+420224312792"
+  }
+},
+{
+  "type": "node",
+  "id": 318780717,
+  "lat": 50.1006148,
+  "lon": 14.3940943,
+  "tags": {
+    "amenity": "telephone",
+    "layer": "-1",
+    "note": "Telefonní automat, v podchodu pod zemí",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 330610268,
+  "lat": 50.1017917,
+  "lon": 14.3955122,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 330610326,
+  "lat": 50.1012775,
+  "lon": 14.3964480,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 331441558,
+  "lat": 50.1045632,
+  "lon": 14.3929737,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "payment:coins": "yes",
+    "payment:telephone_cards": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 331950062,
+  "lat": 50.1035899,
+  "lon": 14.3981767,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 370944712,
+  "lat": 50.1008265,
+  "lon": 14.3979331,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 331950087,
+  "lat": 50.1027237,
+  "lon": 14.4005724,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 360171259,
+  "lat": 50.1005261,
+  "lon": 14.4026386,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 360171290,
+  "lat": 50.1014558,
+  "lon": 14.4021233,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 5005072220,
+  "lat": 50.1187850,
+  "lon": 14.4021455,
+  "tags": {
+    "amenity": "telephone",
+    "source": "CZ:IPRPraha:ortofoto"
+  }
+},
+{
+  "type": "node",
+  "id": 1891074619,
+  "lat": 50.1167478,
+  "lon": 14.4104904,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 341372192,
+  "lat": 50.0873683,
+  "lon": 14.4228022,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3336079824,
+  "lat": 50.0880581,
+  "lon": 14.4180054,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 3414032166,
+  "lat": 50.0896695,
+  "lon": 14.4193488,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 341372197,
+  "lat": 50.0872716,
+  "lon": 14.4260628,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 529132086,
+  "lat": 50.0879565,
+  "lon": 14.4287965,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1102918350,
+  "lat": 50.0920983,
+  "lon": 14.4299706,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 339926203,
+  "lat": 50.0872061,
+  "lon": 14.4340543,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 354692389,
+  "lat": 50.0900232,
+  "lon": 14.4345415,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 488588577,
+  "lat": 50.0893277,
+  "lon": 14.4314766,
+  "tags": {
+    "amenity": "telephone",
+    "note": "2 telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1102915930,
+  "lat": 50.0920598,
+  "lon": 14.4333260,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 4715110270,
+  "lat": 50.0873047,
+  "lon": 14.4343679,
+  "tags": {
+    "amenity": "telephone",
+    "level": "0"
+  }
+},
+{
+  "type": "node",
+  "id": 367734073,
+  "lat": 50.0902667,
+  "lon": 14.4393996,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 937503030,
+  "lat": 50.0921364,
+  "lon": 14.4426072,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "payment:coins": "yes",
+    "payment:telephone_cards": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2640706815,
+  "lat": 50.0899202,
+  "lon": 14.4401950,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 310453034,
+  "lat": 50.0987436,
+  "lon": 14.4335958,
+  "tags": {
+    "amenity": "telephone",
+    "note": "2 budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1027849879,
+  "lat": 50.0954321,
+  "lon": 14.4366095,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 318021413,
+  "lat": 50.0988702,
+  "lon": 14.4430636,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 331950445,
+  "lat": 50.1012733,
+  "lon": 14.4182888,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 360328619,
+  "lat": 50.1024317,
+  "lon": 14.4231775,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 718329750,
+  "lat": 50.1000217,
+  "lon": 14.4272573,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 714161042,
+  "lat": 50.1031361,
+  "lon": 14.4337971,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 714162563,
+  "lat": 50.1003092,
+  "lon": 14.4334619,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1005315512,
+  "lat": 50.1006149,
+  "lon": 14.4358049,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1008635452,
+  "lat": 50.1021626,
+  "lon": 14.4352794,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1295966297,
+  "lat": 50.1034578,
+  "lon": 14.4353838,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 662719615,
+  "lat": 50.0993571,
+  "lon": 14.4386083,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dole v podchodu",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1024975627,
+  "lat": 50.1022938,
+  "lon": 14.4434038,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 426193627,
+  "lat": 50.0868760,
+  "lon": 14.4455340,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 658936421,
+  "lat": 50.0868094,
+  "lon": 14.4498087,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 4618505093,
+  "lat": 50.0914524,
+  "lon": 14.4450540,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "224816959"
+  }
+},
+{
+  "type": "node",
+  "id": 392032702,
+  "lat": 50.0876292,
+  "lon": 14.4533806,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 534434275,
+  "lat": 50.0873006,
+  "lon": 14.4526369,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1968330555,
+  "lat": 50.0946717,
+  "lon": 14.4550508,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 4970681940,
+  "lat": 50.0937477,
+  "lon": 14.4552069,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "payment:coins": "yes",
+    "payment:telephone_cards": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 467964157,
+  "lat": 50.0886523,
+  "lon": 14.4615271,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 305860599,
+  "lat": 50.0887399,
+  "lon": 14.4689283,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 306273863,
+  "lat": 50.0872414,
+  "lon": 14.4699800,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "source": "CZ:IPRPraha:ortofoto"
+  }
+},
+{
+  "type": "node",
+  "id": 3727956565,
+  "lat": 50.0971837,
+  "lon": 14.4652925,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 316829897,
+  "lat": 50.1027765,
+  "lon": 14.4501174,
+  "tags": {
+    "amenity": "telephone",
+    "note": "2 telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 320364760,
+  "lat": 50.1046401,
+  "lon": 14.4500501,
+  "tags": {
+    "amenity": "telephone",
+    "covered": "booth",
+    "operator": "Telefónica O2",
+    "payment:coins": "yes",
+    "payment:telephone_cards": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1675035057,
+  "lat": 50.1058222,
+  "lon": 14.4549994,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 350566088,
+  "lat": 50.1171810,
+  "lon": 14.4328973,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2088588200,
+  "lat": 50.1146002,
+  "lon": 14.4689189,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 4387307341,
+  "lat": 50.1200003,
+  "lon": 14.4590457,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 1482388503,
+  "lat": 50.0026787,
+  "lon": 14.5151841,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 334399645,
+  "lat": 50.0327198,
+  "lon": 14.4818591,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dva telefonní automaty vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 4711791890,
+  "lat": 50.0225273,
+  "lon": 14.4865235,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 948079644,
+  "lat": 50.0251662,
+  "lon": 14.4920225,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1164851111,
+  "lat": 50.0259560,
+  "lon": 14.4931747,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 525500226,
+  "lat": 50.0323810,
+  "lon": 14.4849794,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dva telefonní automaty",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1103244675,
+  "lat": 50.0281873,
+  "lon": 14.4897552,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 332147143,
+  "lat": 50.0312327,
+  "lon": 14.4917281,
+  "tags": {
+    "amenity": "telephone",
+    "layer": "-1",
+    "note": "automat v podchodu metra",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1431098868,
+  "lat": 50.0132763,
+  "lon": 14.5135703,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 1094586228,
+  "lat": 50.0320662,
+  "lon": 14.5090610,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 305306719,
+  "lat": 50.0304831,
+  "lon": 14.5259660,
+  "tags": {
+    "amenity": "telephone",
+    "note": "4 telefonní automaty vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 310322434,
+  "lat": 50.0310652,
+  "lon": 14.5286731,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 354736215,
+  "lat": 50.0305075,
+  "lon": 14.5286854,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1270186322,
+  "lat": 50.0278009,
+  "lon": 14.6182250,
+  "tags": {
+    "amenity": "telephone",
+    "fixme": "resurvey",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 663518364,
+  "lat": 50.0372151,
+  "lon": 14.4777098,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1340969243,
+  "lat": 50.0432521,
+  "lon": 14.4877107,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1211788895,
+  "lat": 50.0487896,
+  "lon": 14.4802699,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1370014434,
+  "lat": 50.0471812,
+  "lon": 14.4880631,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1370014443,
+  "lat": 50.0474282,
+  "lon": 14.4893197,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1172081938,
+  "lat": 50.0360054,
+  "lon": 14.5001557,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1457720161,
+  "lat": 50.0368155,
+  "lon": 14.5050170,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 2105445014,
+  "lat": 50.0335802,
+  "lon": 14.5051397,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 1416497266,
+  "lat": 50.0387876,
+  "lon": 14.5156553,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 6856585387,
+  "lat": 50.0347339,
+  "lon": 14.5200780,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 941532078,
+  "lat": 50.0455303,
+  "lon": 14.5188288,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 823297642,
+  "lat": 50.0544207,
+  "lon": 14.5074339,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 823297695,
+  "lat": 50.0574993,
+  "lon": 14.5065271,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 945075083,
+  "lat": 50.0470038,
+  "lon": 14.5151359,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "payment:coins": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1476704297,
+  "lat": 50.0641210,
+  "lon": 14.4712981,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 444581246,
+  "lat": 50.0724904,
+  "lon": 14.4703499,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 448749291,
+  "lat": 50.0716494,
+  "lon": 14.4787530,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1140143150,
+  "lat": 50.0768190,
+  "lon": 14.4879983,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 353085914,
+  "lat": 50.0830324,
+  "lon": 14.4872627,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 340188854,
+  "lat": 50.0849541,
+  "lon": 14.5110206,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 774088108,
+  "lat": 50.0487853,
+  "lon": 14.5426079,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 323137384,
+  "lat": 50.0398423,
+  "lon": 14.5602743,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "payment:coins": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 321059263,
+  "lat": 50.0452583,
+  "lon": 14.5580372,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 774034374,
+  "lat": 50.0461942,
+  "lon": 14.5574671,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 775241014,
+  "lat": 50.0408746,
+  "lon": 14.5657829,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3558741134,
+  "lat": 50.0479461,
+  "lon": 14.5594550,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 366964632,
+  "lat": 50.0586616,
+  "lon": 14.5574790,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 903558134,
+  "lat": 50.0545326,
+  "lon": 14.5634403,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 307002591,
+  "lat": 50.0948215,
+  "lon": 14.4957845,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "phone": "+420266310920"
+  }
+},
+{
+  "type": "node",
+  "id": 307304751,
+  "lat": 50.1032603,
+  "lon": 14.4731739,
+  "tags": {
+    "amenity": "telephone",
+    "level": "-1",
+    "note": "2 automady dole v podchodu",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 316726111,
+  "lat": 50.1021123,
+  "lon": 14.4737257,
+  "tags": {
+    "amenity": "telephone",
+    "note": "2 telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 585175550,
+  "lat": 50.1051119,
+  "lon": 14.4738699,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1133343763,
+  "lat": 50.1027358,
+  "lon": 14.4766500,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1134868230,
+  "lat": 50.1047195,
+  "lon": 14.4729464,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 392006551,
+  "lat": 50.1049633,
+  "lon": 14.4831297,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2477316416,
+  "lat": 50.1093923,
+  "lon": 14.4722390,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 4983458199,
+  "lat": 50.1089253,
+  "lon": 14.4739913,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 387514142,
+  "lat": 50.1064952,
+  "lon": 14.4882238,
+  "tags": {
+    "amenity": "telephone",
+    "note": "dvě telefonní budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 635692986,
+  "lat": 50.1076316,
+  "lon": 14.4898948,
+  "tags": {
+    "amenity": "telephone",
+    "note": "2 budky vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 2047259060,
+  "lat": 50.1062047,
+  "lon": 14.4862500,
+  "tags": {
+    "amenity": "telephone",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 314789953,
+  "lat": 50.1066780,
+  "lon": 14.4923626,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "phone": "+420266310530"
+  }
+},
+{
+  "type": "node",
+  "id": 315984630,
+  "lat": 50.1060236,
+  "lon": 14.4912843,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 366158161,
+  "lat": 50.1064677,
+  "lon": 14.4929430,
+  "tags": {
+    "amenity": "telephone",
+    "note": "tři telefonní automaty vedle sebe",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 335951566,
+  "lat": 50.0877015,
+  "lon": 14.5067844,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 821144626,
+  "lat": 50.0929048,
+  "lon": 14.4989964,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 306689709,
+  "lat": 50.0922665,
+  "lon": 14.5118547,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 4123182264,
+  "lat": 50.1142231,
+  "lon": 14.4729877,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 325815019,
+  "lat": 50.0981511,
+  "lon": 14.5468391,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 1290020521,
+  "lat": 50.0352803,
+  "lon": 14.5932750,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2",
+    "payment:coins": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 322974407,
+  "lat": 50.0559501,
+  "lon": 14.5801090,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 889425369,
+  "lat": 50.0810720,
+  "lon": 14.6173468,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 858394080,
+  "lat": 50.1074527,
+  "lon": 14.5786240,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 553713137,
+  "lat": 50.1137817,
+  "lon": 14.6039197,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 415050996,
+  "lat": 50.1153538,
+  "lon": 14.6131664,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 5418851753,
+  "lat": 50.4245869,
+  "lon": 14.6008022,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420315693019"
+  }
+},
+{
+  "type": "node",
+  "id": 540971741,
+  "lat": 50.4940418,
+  "lon": 14.4869856,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420315695037"
+  }
+},
+{
+  "type": "node",
+  "id": 3904019974,
+  "lat": 50.4668926,
+  "lon": 14.5261433,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420315695061"
+  }
+},
+{
+  "type": "node",
+  "id": 3139738176,
+  "lat": 50.4971568,
+  "lon": 14.6167033,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "payment:coins": "no",
+    "payment:notes": "no",
+    "payment:telephone_cards": "yes",
+    "phone": "+420 487 874 370"
+  }
+},
+{
+  "type": "node",
+  "id": 4934629999,
+  "lat": 50.4738842,
+  "lon": 14.6685478,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 5899994799,
+  "lat": 50.5157904,
+  "lon": 14.6237563,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3904019976,
+  "lat": 50.5122224,
+  "lon": 14.6647025,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420487876212"
+  }
+},
+{
+  "type": "node",
+  "id": 5914821926,
+  "lat": 50.5634650,
+  "lon": 14.6188974,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 4396185073,
+  "lat": 50.7404239,
+  "lon": 14.5592274,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420 487 722 463"
+  }
+},
+{
+  "type": "node",
+  "id": 5330480720,
+  "lat": 50.3995230,
+  "lon": 14.6985706,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420315693451"
+  }
+},
+{
+  "type": "node",
+  "id": 5330480053,
+  "lat": 50.3580311,
+  "lon": 14.7633847,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420326395211"
+  }
+},
+{
+  "type": "node",
+  "id": 5077513418,
+  "lat": 50.4321556,
+  "lon": 14.6931215,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 4947593627,
+  "lat": 50.4229168,
+  "lon": 14.7782986,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 4986771163,
+  "lat": 50.3923135,
+  "lon": 14.8237525,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3901954970,
+  "lat": 50.4064147,
+  "lon": 14.8308850,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420326356631"
+  }
+},
+{
+  "type": "node",
+  "id": 5414427980,
+  "lat": 50.3959210,
+  "lon": 15.0554511,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420326399742"
+  }
+},
+{
+  "type": "node",
+  "id": 3901954972,
+  "lat": 50.4356860,
+  "lon": 15.0049913,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420326397480"
+  }
+},
+{
+  "type": "node",
+  "id": 3814197598,
+  "lat": 50.5318347,
+  "lon": 14.9251397,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420 326 786 091",
+    "ref": "326786091"
+  }
+},
+{
+  "type": "node",
+  "id": 2998244337,
+  "lat": 50.7638014,
+  "lon": 14.8222616,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420485172240"
+  }
+},
+{
+  "type": "node",
+  "id": 3686732113,
+  "lat": 50.5648057,
+  "lon": 14.9319024,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "payment:telephone_cards": "yes",
+    "phone": "+420 326 786 118",
+    "sms": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3190739028,
+  "lat": 50.5714967,
+  "lon": 14.9484376,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "payment:telephone_cards": "yes",
+    "phone": "+420326786433"
+  }
+},
+{
+  "type": "node",
+  "id": 3716865457,
+  "lat": 50.5597735,
+  "lon": 14.9779799,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420326787236"
+  }
+},
+{
+  "type": "node",
+  "id": 4703043984,
+  "lat": 50.6488798,
+  "lon": 14.9279075,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3689808248,
+  "lat": 50.5599147,
+  "lon": 15.0357838,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420 326 789 348"
+  }
+},
+{
+  "type": "node",
+  "id": 3731178476,
+  "lat": 50.5856455,
+  "lon": 15.0049976,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "payment:telephone_cards": "yes",
+    "phone": "+420 326 789 286"
+  }
+},
+{
+  "type": "node",
+  "id": 3903503908,
+  "lat": 50.7043099,
+  "lon": 14.9400932,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420485179452"
+  }
+},
+{
+  "type": "node",
+  "id": 3903503932,
+  "lat": 50.8059108,
+  "lon": 14.0479781,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420475222611"
+  }
+},
+{
+  "type": "node",
+  "id": 3903503944,
+  "lat": 50.8886220,
+  "lon": 14.4619390,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420412381463"
+  }
+},
+{
+  "type": "node",
+  "id": 5435137117,
+  "lat": 50.3075983,
+  "lon": 15.2533642,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420493551005"
+  }
+},
+{
+  "type": "node",
+  "id": 5435137121,
+  "lat": 50.2952340,
+  "lon": 15.3203943,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420493551007"
+  }
+},
+{
+  "type": "node",
+  "id": 3411144980,
+  "lat": 50.0800728,
+  "lon": 15.6487927,
+  "tags": {
+    "amenity": "telephone",
+    "payment:telephone_cards": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2378271599,
+  "lat": 49.9323770,
+  "lon": 15.9196852,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefonica O2",
+    "source": "gps"
+  }
+},
+{
+  "type": "node",
+  "id": 7837385277,
+  "lat": 50.3500680,
+  "lon": 15.1166718,
+  "tags": {
+    "amenity": "telephone",
+    "description": "v autobusové čekárně",
+    "operator": "O2",
+    "phone": "+420 326 380 313"
+  }
+},
+{
+  "type": "node",
+  "id": 4199070941,
+  "lat": 50.3817447,
+  "lon": 15.1020310,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3914967151,
+  "lat": 50.3754474,
+  "lon": 15.1387040,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420493596168"
+  }
+},
+{
+  "type": "node",
+  "id": 3901954971,
+  "lat": 50.4080080,
+  "lon": 15.1067729,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420326390437"
+  }
+},
+{
+  "type": "node",
+  "id": 5417949226,
+  "lat": 50.4123402,
+  "lon": 15.2950607,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420493522153"
+  }
+},
+{
+  "type": "node",
+  "id": 3901954976,
+  "lat": 50.4671588,
+  "lon": 15.1022244,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420326396605"
+  }
+},
+{
+  "type": "node",
+  "id": 2463970201,
+  "lat": 50.5449874,
+  "lon": 15.1202204,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420481329098"
+  }
+},
+{
+  "type": "node",
+  "id": 5432960557,
+  "lat": 50.4707475,
+  "lon": 15.2640956,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420493576008"
+  }
+},
+{
+  "type": "node",
+  "id": 7454503516,
+  "lat": 50.5101792,
+  "lon": 15.2259269,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420 481 381 007"
+  }
+},
+{
+  "type": "node",
+  "id": 4717844046,
+  "lat": 50.5203909,
+  "lon": 15.3002382,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 5420769108,
+  "lat": 50.3959336,
+  "lon": 15.4711183,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420493597001"
+  }
+},
+{
+  "type": "node",
+  "id": 2559592352,
+  "lat": 50.4585026,
+  "lon": 15.3383921,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 3904019975,
+  "lat": 50.4941952,
+  "lon": 15.3778151,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420493591000"
+  }
+},
+{
+  "type": "node",
+  "id": 5553064007,
+  "lat": 50.6376477,
+  "lon": 15.1118339,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420 485 146 157"
+  }
+},
+{
+  "type": "node",
+  "id": 4228843295,
+  "lat": 50.6203161,
+  "lon": 15.1880080,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3904019991,
+  "lat": 50.6006435,
+  "lon": 15.2213846,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420481320003"
+  }
+},
+{
+  "type": "node",
+  "id": 3904019992,
+  "lat": 50.6050022,
+  "lon": 15.4015910,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2",
+    "phone": "+420481685004"
+  }
+},
+{
+  "type": "node",
+  "id": 2028452453,
+  "lat": 50.3756012,
+  "lon": 15.8482809,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 1360468713,
+  "lat": 50.3402114,
+  "lon": 16.2743967,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "Telefónica O2"
+  }
+},
+{
+  "type": "node",
+  "id": 480616922,
+  "lat": 50.4846790,
+  "lon": 15.9756766,
+  "tags": {
+    "amenity": "telephone",
+    "operator": "O2"
+  }
+},
+{
+  "type": "node",
+  "id": 3139912558,
+  "lat": 50.2389622,
+  "lon": 17.4490143,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "node",
+  "id": 6439270074,
+  "lat": 49.9322824,
+  "lon": 17.6892033,
+  "tags": {
+    "amenity": "telephone"
+  }
+},
+{
+  "type": "way",
+  "id": 487162235,
+  "center": {
+    "lat": 49.5380480,
+    "lon": 13.9832847
+  },
+  "nodes": [
+    4796695857,
+    4796715275,
+    4796715276,
+    4796715277,
+    4796695857
+  ],
+  "tags": {
+    "amenity": "telephone"
+  }
+}
+
+  ]
+}
