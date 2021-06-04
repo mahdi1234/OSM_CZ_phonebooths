@@ -1,2 +1,4 @@
 Telefonni budky
 608
+disused: Telefonni budky
+778
