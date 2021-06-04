@@ -2541,16 +2541,6 @@
 },
 {
   "type": "node",
-  "id": 331360039,
-  "lat": 49.6525311,
-  "lon": 15.8739998,
-  "tags": {
-    "amenity": "telephone",
-    "operator": "Telefónica O2"
-  }
-},
-{
-  "type": "node",
   "id": 6586956023,
   "lat": 49.8601268,
   "lon": 15.5283454,
@@ -2581,131 +2571,6 @@
 },
 {
   "type": "node",
-  "id": 4809205721,
-  "lat": 49.3792670,
-  "lon": 16.0788938,
-  "tags": {
-    "amenity": "telephone"
-  }
-},
-{
-  "type": "node",
-  "id": 6109332990,
-  "lat": 49.4684332,
-  "lon": 16.0903812,
-  "tags": {
-    "amenity": "telephone",
-    "payment:coins": "yes",
-    "phone": "566673135"
-  }
-},
-{
-  "type": "node",
-  "id": 8592614085,
-  "lat": 49.4407944,
-  "lon": 16.2565403,
-  "tags": {
-    "amenity": "telephone"
-  }
-},
-{
-  "type": "node",
-  "id": 6710934479,
-  "lat": 49.3916307,
-  "lon": 16.5502942,
-  "tags": {
-    "amenity": "telephone",
-    "covered": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 3890890300,
-  "lat": 49.4436983,
-  "lon": 16.4585166,
-  "tags": {
-    "amenity": "telephone",
-    "operator": "O2"
-  }
-},
-{
-  "type": "node",
-  "id": 2091317557,
-  "lat": 49.5012914,
-  "lon": 16.4100206,
-  "tags": {
-    "amenity": "telephone"
-  }
-},
-{
-  "type": "node",
-  "id": 1663154406,
-  "lat": 49.5822851,
-  "lon": 15.9659192,
-  "tags": {
-    "amenity": "telephone"
-  }
-},
-{
-  "type": "node",
-  "id": 287406016,
-  "lat": 49.6911639,
-  "lon": 16.1180898,
-  "tags": {
-    "amenity": "telephone",
-    "operator": "Telefónica O2"
-  }
-},
-{
-  "type": "node",
-  "id": 4097897362,
-  "lat": 49.7081567,
-  "lon": 16.1381633,
-  "tags": {
-    "amenity": "telephone",
-    "source": "gps"
-  }
-},
-{
-  "type": "node",
-  "id": 3324977388,
-  "lat": 49.7611865,
-  "lon": 15.9864561,
-  "tags": {
-    "amenity": "telephone",
-    "payment:telephone_cards": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 6470183619,
-  "lat": 49.5875537,
-  "lon": 16.4225254,
-  "tags": {
-    "amenity": "telephone",
-    "operator": "O2"
-  }
-},
-{
-  "type": "node",
-  "id": 4455727529,
-  "lat": 49.6521862,
-  "lon": 16.7083524,
-  "tags": {
-    "amenity": "telephone"
-  }
-},
-{
-  "type": "node",
-  "id": 4350724290,
-  "lat": 49.6918728,
-  "lon": 16.7645851,
-  "tags": {
-    "amenity": "telephone"
-  }
-},
-{
-  "type": "node",
   "id": 4266324591,
   "lat": 48.9800273,
   "lon": 17.8800912,
@@ -2716,98 +2581,9 @@
 },
 {
   "type": "node",
-  "id": 3065835180,
-  "lat": 49.4088643,
-  "lon": 16.9019068,
-  "tags": {
-    "amenity": "telephone",
-    "operator": "O2"
-  }
-},
-{
-  "type": "node",
-  "id": 3065835382,
-  "lat": 49.4549341,
-  "lon": 16.8902904,
-  "tags": {
-    "amenity": "telephone",
-    "operator": "O2"
-  }
-},
-{
-  "type": "node",
-  "id": 2966874309,
-  "lat": 49.4955488,
-  "lon": 16.9334611,
-  "tags": {
-    "amenity": "telephone",
-    "operator": "O2"
-  }
-},
-{
-  "type": "node",
   "id": 6017206857,
   "lat": 49.1382897,
   "lon": 17.3496829,
-  "tags": {
-    "amenity": "telephone"
-  }
-},
-{
-  "type": "node",
-  "id": 3111408438,
-  "lat": 49.6000517,
-  "lon": 16.9145572,
-  "tags": {
-    "amenity": "telephone",
-    "operator": "O2"
-  }
-},
-{
-  "type": "node",
-  "id": 3128351834,
-  "lat": 49.6097280,
-  "lon": 16.9390758,
-  "tags": {
-    "amenity": "telephone",
-    "operator": "O2"
-  }
-},
-{
-  "type": "node",
-  "id": 3101112787,
-  "lat": 49.6627321,
-  "lon": 16.7869848,
-  "tags": {
-    "amenity": "telephone",
-    "operator": "O2"
-  }
-},
-{
-  "type": "node",
-  "id": 3101589180,
-  "lat": 49.6645264,
-  "lon": 16.8092445,
-  "tags": {
-    "amenity": "telephone",
-    "operator": "O2"
-  }
-},
-{
-  "type": "node",
-  "id": 3113652959,
-  "lat": 49.6795401,
-  "lon": 16.8153157,
-  "tags": {
-    "amenity": "telephone",
-    "operator": "O2"
-  }
-},
-{
-  "type": "node",
-  "id": 6797460480,
-  "lat": 49.8200920,
-  "lon": 16.8298993,
   "tags": {
     "amenity": "telephone"
   }
@@ -6266,16 +6042,6 @@
     "amenity": "telephone",
     "operator": "O2",
     "phone": "+420493551007"
-  }
-},
-{
-  "type": "node",
-  "id": 3411144980,
-  "lat": 50.0800728,
-  "lon": 15.6487927,
-  "tags": {
-    "amenity": "telephone",
-    "payment:telephone_cards": "yes"
   }
 },
 {
