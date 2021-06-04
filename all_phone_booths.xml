@@ -2467,43 +2467,14 @@
     <tag k="operator" v="O2"/>
     <tag k="phone" v="+420326397480"/>
   </node>
-  <node id="3814197598" lat="50.5318347" lon="14.9251397">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420 326 786 091"/>
-    <tag k="ref" v="326786091"/>
-  </node>
   <node id="2998244337" lat="50.7638014" lon="14.8222616">
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
     <tag k="phone" v="+420485172240"/>
   </node>
-  <node id="3686732113" lat="50.5648057" lon="14.9319024">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="payment:telephone_cards" v="yes"/>
-    <tag k="phone" v="+420 326 786 118"/>
-    <tag k="sms" v="yes"/>
-  </node>
-  <node id="3190739028" lat="50.5714967" lon="14.9484376">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="payment:telephone_cards" v="yes"/>
-    <tag k="phone" v="+420326786433"/>
-  </node>
-  <node id="3716865457" lat="50.5597735" lon="14.9779799">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420326787236"/>
-  </node>
   <node id="4703043984" lat="50.6488798" lon="14.9279075">
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
-  </node>
-  <node id="3689808248" lat="50.5599147" lon="15.0357838">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420 326 789 348"/>
   </node>
   <node id="3731178476" lat="50.5856455" lon="15.0049976">
     <tag k="amenity" v="telephone"/>
