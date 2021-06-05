@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
-  <time>2021-06-05T04:17:56.216Z</time>
+  <time>2021-06-05T15:09:49.070Z</time>
   <bounds minlat="48.742982200" minlon="12.275224800" maxlat="50.773727500" maxlon="18.832025300"/>
   <wpt lat="49.398467500" lon="12.830480200">
     <name>osm-id 1882098251</name>
@@ -852,11 +852,6 @@
     <cmt>osm-id 4013480013</cmt>
     <desc>osm-id 4013480013</desc>
   </wpt>
-  <wpt lat="49.158998400" lon="16.263946400">
-    <name>osm-id 2615622723</name>
-    <cmt>osm-id 2615622723</cmt>
-    <desc>osm-id 2615622723</desc>
-  </wpt>
   <wpt lat="49.162840600" lon="16.300007000">
     <name>osm-id 4867939821</name>
     <cmt>osm-id 4867939821</cmt>
@@ -866,21 +861,6 @@
     <name>osm-id 945246203</name>
     <cmt>osm-id 945246203</cmt>
     <desc>osm-id 945246203</desc>
-  </wpt>
-  <wpt lat="49.156275200" lon="16.343752900">
-    <name>osm-id 1517947625</name>
-    <cmt>osm-id 1517947625</cmt>
-    <desc>osm-id 1517947625</desc>
-  </wpt>
-  <wpt lat="49.161622500" lon="16.342830400">
-    <name>osm-id 1517947992</name>
-    <cmt>osm-id 1517947992</cmt>
-    <desc>osm-id 1517947992</desc>
-  </wpt>
-  <wpt lat="49.170296700" lon="16.325431900">
-    <name>osm-id 3964601023</name>
-    <cmt>osm-id 3964601023</cmt>
-    <desc>osm-id 3964601023</desc>
   </wpt>
   <wpt lat="49.292554500" lon="16.192721300">
     <name>osm-id 4809288121</name>
@@ -941,21 +921,6 @@
     <name>osm-id 3964601015</name>
     <cmt>osm-id 3964601015</cmt>
     <desc>osm-id 3964601015</desc>
-  </wpt>
-  <wpt lat="49.188808500" lon="16.361286800">
-    <name>osm-id 1517947961</name>
-    <cmt>osm-id 1517947961</cmt>
-    <desc>osm-id 1517947961</desc>
-  </wpt>
-  <wpt lat="49.171183300" lon="16.409138100">
-    <name>osm-id 3964601024</name>
-    <cmt>osm-id 3964601024</cmt>
-    <desc>osm-id 3964601024</desc>
-  </wpt>
-  <wpt lat="49.181629800" lon="16.390180900">
-    <name>osm-id 4813594321</name>
-    <cmt>osm-id 4813594321</cmt>
-    <desc>osm-id 4813594321</desc>
   </wpt>
   <wpt lat="49.106036500" lon="16.467765400">
     <name>osm-id 347321712</name>

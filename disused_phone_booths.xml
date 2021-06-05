@@ -688,10 +688,6 @@
   <node id="4013480013" lat="49.2241752" lon="16.0008686">
     <tag k="disused:amenity" v="telephone"/>
   </node>
-  <node id="2615622723" lat="49.1589984" lon="16.2639464">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica"/>
-  </node>
   <node id="4867939821" lat="49.1628406" lon="16.3000070">
     <tag k="disused:amenity" v="telephone"/>
     <tag k="phone" v="546450388"/>
@@ -701,19 +697,6 @@
     <tag k="operator" v="O2"/>
     <tag k="phone" v="+420568643298"/>
     <tag k="source" v="survey"/>
-  </node>
-  <node id="1517947625" lat="49.1562752" lon="16.3437529">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="source" v="survey"/>
-  </node>
-  <node id="1517947992" lat="49.1616225" lon="16.3428304">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="source" v="survey"/>
-  </node>
-  <node id="3964601023" lat="49.1702967" lon="16.3254319">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420546431099"/>
   </node>
   <node id="4809288121" lat="49.2925545" lon="16.1927213">
     <tag k="disused:amenity" v="telephone"/>
@@ -772,19 +755,6 @@
     <tag k="disused:amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
     <tag k="phone" v="+420546410118"/>
-  </node>
-  <node id="1517947961" lat="49.1888085" lon="16.3612868">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="source" v="survey"/>
-  </node>
-  <node id="3964601024" lat="49.1711833" lon="16.4091381">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420546411097"/>
-  </node>
-  <node id="4813594321" lat="49.1816298" lon="16.3901809">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="phone" v="546411093"/>
   </node>
   <node id="347321712" lat="49.1060365" lon="16.4677654">
     <tag k="disused:amenity" v="telephone"/>

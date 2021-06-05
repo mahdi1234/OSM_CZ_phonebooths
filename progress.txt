@@ -1,4 +1,5 @@
 Telefonni budky
-601
+598
 disused: Telefonni budky
-773
+766
+Celkem - 1364
