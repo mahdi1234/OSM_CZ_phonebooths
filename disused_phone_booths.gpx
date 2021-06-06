@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
-  <time>2021-06-05T15:09:49.070Z</time>
+  <time>2021-06-06T04:17:39.558Z</time>
   <bounds minlat="48.742982200" minlon="12.275224800" maxlat="50.773727500" maxlon="18.832025300"/>
   <wpt lat="49.398467500" lon="12.830480200">
     <name>osm-id 1882098251</name>
@@ -3303,21 +3303,6 @@
     <name>osm-id 3952848948</name>
     <cmt>osm-id 3952848948</cmt>
     <desc>osm-id 3952848948</desc>
-  </wpt>
-  <wpt lat="50.491066400" lon="14.924914300">
-    <name>osm-id 3810418811</name>
-    <cmt>osm-id 3810418811</cmt>
-    <desc>prázdná telefonní budka</desc>
-  </wpt>
-  <wpt lat="50.519267500" lon="14.973112800">
-    <name>osm-id 3684766089</name>
-    <cmt>osm-id 3684766089</cmt>
-    <desc>prázdná telefonní budka</desc>
-  </wpt>
-  <wpt lat="50.521608800" lon="14.973991100">
-    <name>osm-id 3813333748</name>
-    <cmt>osm-id 3813333748</cmt>
-    <desc>prázdná telefonní budka</desc>
   </wpt>
   <wpt lat="50.625573200" lon="14.915759400">
     <name>osm-id 3688417811</name>

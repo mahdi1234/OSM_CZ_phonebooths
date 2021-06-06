@@ -2609,27 +2609,6 @@
     <tag k="disused:amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
   </node>
-  <node id="3810418811" lat="50.4910664" lon="14.9249143">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="note" v="prázdná telefonní budka"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420326781271"/>
-  </node>
-  <node id="3684766089" lat="50.5192675" lon="14.9731128">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="note" v="prázdná telefonní budka"/>
-    <tag k="operator" v="O2"/>
-    <tag k="payment:telephone_cards" v="yes"/>
-  </node>
-  <node id="3813333748" lat="50.5216088" lon="14.9739911">
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="note" v="prázdná telefonní budka"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420 326 773 313"/>
-    <tag k="ref" v="326773313"/>
-    <tag k="sms" v="yes"/>
-  </node>
   <node id="3688417811" lat="50.6255732" lon="14.9157594">
     <tag k="description" v="zdevastovaná budka bez přístroje"/>
     <tag k="disused:amenity" v="telephone"/>

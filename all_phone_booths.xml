@@ -2430,15 +2430,6 @@
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
   </node>
-  <node id="4986771163" lat="50.3923135" lon="14.8237525">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
-  <node id="3901954970" lat="50.4064147" lon="14.8308850">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420326356631"/>
-  </node>
   <node id="5414427980" lat="50.3959210" lon="15.0554511">
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
