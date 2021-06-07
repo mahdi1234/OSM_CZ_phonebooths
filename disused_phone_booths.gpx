@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
-  <time>2021-06-06T14:11:01.766Z</time>
+  <time>2021-06-07T03:19:12.646Z</time>
   <bounds minlat="48.742982200" minlon="12.275224800" maxlat="50.773727500" maxlon="18.832025300"/>
   <wpt lat="49.398467500" lon="12.830480200">
     <name>osm-id 1882098251</name>
@@ -1097,11 +1097,6 @@
     <cmt>osm-id 3188250706</cmt>
     <desc>osm-id 3188250706</desc>
   </wpt>
-  <wpt lat="49.206729500" lon="16.622210900">
-    <name>osm-id 3156083867</name>
-    <cmt>osm-id 3156083867</cmt>
-    <desc>osm-id 3156083867</desc>
-  </wpt>
   <wpt lat="49.195919200" lon="16.643433300">
     <name>osm-id 377067525</name>
     <cmt>osm-id 377067525</cmt>
@@ -1116,11 +1111,6 @@
     <name>osm-id 6240479330</name>
     <cmt>osm-id 6240479330</cmt>
     <desc>osm-id 6240479330</desc>
-  </wpt>
-  <wpt lat="49.212414400" lon="16.624839800">
-    <name>osm-id 2816542299</name>
-    <cmt>osm-id 2816542299</cmt>
-    <desc>osm-id 2816542299</desc>
   </wpt>
   <wpt lat="49.211009700" lon="16.633573800">
     <name>osm-id 2191778062</name>

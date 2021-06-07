@@ -918,9 +918,6 @@
   <node id="3188250706" lat="49.1998162" lon="16.6285178">
     <tag k="disused:amenity" v="telephone"/>
   </node>
-  <node id="3156083867" lat="49.2067295" lon="16.6222109">
-    <tag k="disused:amenity" v="telephone"/>
-  </node>
   <node id="377067525" lat="49.1959192" lon="16.6434333">
     <tag k="disused:amenity" v="telephone"/>
     <tag k="operator" v="Telefónica O2"/>
@@ -930,10 +927,6 @@
   </node>
   <node id="6240479330" lat="49.2025848" lon="16.6363238">
     <tag k="disused:amenity" v="telephone"/>
-  </node>
-  <node id="2816542299" lat="49.2124144" lon="16.6248398">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="phone" v="+420 5 41211611"/>
   </node>
   <node id="2191778062" lat="49.2110097" lon="16.6335738">
     <tag k="covered" v="yes"/>
