@@ -944,12 +944,6 @@
   <node id="3948825126" lat="49.1953278" lon="16.6506038">
     <tag k="disused:amenity" v="telephone"/>
   </node>
-  <node id="3274159230" lat="49.2240221" lon="16.6235011">
-    <tag k="disused:amenity" v="telephone"/>
-  </node>
-  <node id="4692315876" lat="49.2302446" lon="16.6306753">
-    <tag k="disused:amenity" v="telephone"/>
-  </node>
   <node id="1203255963" lat="49.2519532" lon="16.5758987">
     <tag k="contact:phone" v="+420 547 220 206"/>
     <tag k="disused:amenity" v="telephone"/>
@@ -2135,6 +2129,11 @@
   </node>
   <node id="5942306881" lat="50.2352732" lon="14.2405912">
     <tag k="disused:amenity" v="telephone"/>
+  </node>
+  <node id="4952190134" lat="50.4574489" lon="13.5069078">
+    <tag k="disused:amenity" v="telephone"/>
+    <tag k="operator" v="O2"/>
+    <tag k="phone" v="+420474685164"/>
   </node>
   <node id="916082836" lat="49.9503364" lon="14.3129218">
     <tag k="disused:amenity" v="telephone"/>
