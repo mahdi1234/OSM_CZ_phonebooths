@@ -62,7 +62,7 @@
     <tag k="disused:amenity" v="telephone"/>
   </node>
   <node id="4959722210" lat="50.0839183" lon="12.8388177">
-    <tag k="removed:amenity" v="telephone"/>
+    <tag k="disused:amenity" v="telephone"/>
   </node>
   <node id="3260707021" lat="50.1824066" lon="12.6427593">
     <tag k="disused:amenity" v="telephone"/>
@@ -784,7 +784,7 @@
     <tag k="payment:coins" v="yes"/>
   </node>
   <node id="3966690085" lat="49.2106961" lon="16.4096624">
-    <tag k="amenity:disused" v="telephone"/>
+    <tag k="disused:amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
     <tag k="phone" v="+420546427201"/>
   </node>
