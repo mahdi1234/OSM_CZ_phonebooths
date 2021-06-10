@@ -2538,15 +2538,6 @@
     <tag k="operator" v="O2"/>
     <tag k="phone" v="+420 485 146 157"/>
   </node>
-  <node id="4228843295" lat="50.6203161" lon="15.1880080">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
-  <node id="3904019991" lat="50.6006435" lon="15.2213846">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420481320003"/>
-  </node>
   <node id="3904019992" lat="50.6050022" lon="15.4015910">
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
