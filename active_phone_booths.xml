@@ -1366,9 +1366,6 @@
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="Telefónica O2"/>
   </node>
-  <node id="2459099639" lat="50.0491963" lon="14.4419646">
-    <tag k="amenity" v="telephone"/>
-  </node>
   <node id="318514996" lat="50.0578248" lon="14.4331244">
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="Telefónica O2"/>
@@ -1448,9 +1445,6 @@
     <tag k="operator" v="Telefónica O2"/>
   </node>
   <node id="2202099058" lat="50.0723744" lon="14.4262396">
-    <tag k="amenity" v="telephone"/>
-  </node>
-  <node id="2273222999" lat="50.0622668" lon="14.4359466">
     <tag k="amenity" v="telephone"/>
   </node>
   <node id="518149358" lat="50.0639639" lon="14.4410798">
