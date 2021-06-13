@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.56.8 7d656e78">
+<osm version="0.6" generator="Overpass API 0.7.56.3 eb200aeb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
 
   <node id="1882098251" lat="49.3984675" lon="12.8304802">
@@ -333,10 +333,6 @@
   </node>
   <node id="8032743827" lat="49.7827011" lon="14.6897527">
     <tag k="disused:amenity" v="telephone"/>
-  </node>
-  <node id="937278632" lat="49.7922637" lon="14.6812960">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
   </node>
   <node id="2178583439" lat="49.7885208" lon="14.8767220">
     <tag k="disused:amenity" v="telephone"/>
@@ -972,17 +968,6 @@
     <tag k="payment:telephone_cards" v="yes"/>
     <tag k="phone" v="+420 516 431 570"/>
   </node>
-  <node id="4151025706" lat="49.3294171" lon="16.6123571">
-    <tag k="disused:amenity" v="telephone"/>
-  </node>
-  <node id="4278773016" lat="49.3082443" lon="16.6218609">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
-  <node id="3562299445" lat="49.3938432" lon="16.6436741">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
   <node id="4961410782" lat="49.3436696" lon="16.7548635">
     <tag k="disused:amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
@@ -991,38 +976,7 @@
     <tag k="disused:amenity" v="telephone"/>
     <tag k="source" v="survey"/>
   </node>
-  <node id="3339793296" lat="49.4085749" lon="16.6274067">
-    <tag k="disused:amenity" v="telephone"/>
-  </node>
-  <node id="1822620945" lat="49.4072786" lon="16.6368110">
-    <tag k="disused:amenity" v="telephone"/>
-  </node>
   <node id="3452449609" lat="49.4966667" lon="16.5749794">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
-  <node id="5827845856" lat="49.4660057" lon="16.6247787">
-    <tag k="disused:amenity" v="telephone"/>
-  </node>
-  <node id="2622144570" lat="49.4877412" lon="16.6603730">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
-  <node id="8165129170" lat="49.4903861" lon="16.6622841">
-    <tag k="disused:amenity" v="telephone"/>
-  </node>
-  <node id="2495529932" lat="49.4517484" lon="16.7205671">
-    <tag k="disused:amenity" v="telephone"/>
-  </node>
-  <node id="2621711099" lat="49.4714870" lon="16.7191083">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
-  <node id="2972059300" lat="49.4687247" lon="16.7567757">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
-  <node id="2621711309" lat="49.4813330" lon="16.7619059">
     <tag k="disused:amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
   </node>
@@ -2595,26 +2549,6 @@
   </node>
   <node id="3238107318" lat="50.1892049" lon="15.0391361">
     <tag k="disused:amenity" v="telephone"/>
-  </node>
-  <node id="3952848911" lat="50.4147343" lon="14.9096822">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
-  <node id="3952848925" lat="50.4183530" lon="14.9125618">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
-  <node id="4125535612" lat="50.4186684" lon="14.9111817">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
-  <node id="3952848927" lat="50.4208756" lon="14.9146355">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
-  <node id="3952848935" lat="50.4240283" lon="14.9172239">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
   </node>
   <node id="3688417811" lat="50.6255732" lon="14.9157594">
     <tag k="description" v="zdevastovaná budka bez přístroje"/>
