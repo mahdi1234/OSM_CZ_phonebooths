@@ -1407,10 +1407,6 @@
     <tag k="note" v="dva telefonní automaty"/>
     <tag k="operator" v="Telefónica O2"/>
   </node>
-  <node id="3504373524" lat="50.0472739" lon="14.4457742">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
   <node id="1282088746" lat="50.0508356" lon="14.4535366">
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="Telefónica O2"/>
@@ -2474,11 +2470,6 @@
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
     <tag k="phone" v="+420326396605"/>
-  </node>
-  <node id="2463970201" lat="50.5449874" lon="15.1202204">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420481329098"/>
   </node>
   <node id="5432960557" lat="50.4707475" lon="15.2640956">
     <tag k="amenity" v="telephone"/>
