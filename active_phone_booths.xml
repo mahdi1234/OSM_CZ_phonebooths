@@ -2415,11 +2415,6 @@
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
   </node>
-  <node id="5414427980" lat="50.3959210" lon="15.0554511">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420326399742"/>
-  </node>
   <node id="2998244337" lat="50.7638014" lon="14.8222616">
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
@@ -2465,25 +2460,10 @@
     <tag k="operator" v="Telefonica O2"/>
     <tag k="source" v="gps"/>
   </node>
-  <node id="7837385277" lat="50.3500680" lon="15.1166718">
-    <tag k="amenity" v="telephone"/>
-    <tag k="description" v="v autobusové čekárně"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420 326 380 313"/>
-  </node>
-  <node id="4199070941" lat="50.3817447" lon="15.1020310">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
   <node id="3914967151" lat="50.3754474" lon="15.1387040">
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
     <tag k="phone" v="+420493596168"/>
-  </node>
-  <node id="3901954971" lat="50.4080080" lon="15.1067729">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420326390437"/>
   </node>
   <node id="5417949226" lat="50.4123402" lon="15.2950607">
     <tag k="amenity" v="telephone"/>
