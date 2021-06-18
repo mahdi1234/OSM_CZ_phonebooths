@@ -2420,11 +2420,6 @@
     <tag k="operator" v="O2"/>
     <tag k="phone" v="+420493522153"/>
   </node>
-  <node id="3901954976" lat="50.4671588" lon="15.1022244">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420326396605"/>
-  </node>
   <node id="5432960557" lat="50.4707475" lon="15.2640956">
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
