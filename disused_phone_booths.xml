@@ -867,31 +867,6 @@
   <node id="5105845609" lat="49.1667035" lon="16.7584876">
     <tag k="disused:amenity" v="telephone"/>
   </node>
-  <node id="1239210160" lat="49.2443766" lon="16.5774757">
-    <tag k="contact:phone" v="+420 541 226 300"/>
-    <tag k="covered" v="booth"/>
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:credit_cards" v="no"/>
-    <tag k="payment:debit_cards" v="no"/>
-    <tag k="payment:electronic_purses" v="no"/>
-    <tag k="payment:notes" v="no"/>
-    <tag k="payment:telephone_cards" v="no"/>
-    <tag k="source" v="survey"/>
-  </node>
-  <node id="1281961344" lat="49.2384191" lon="16.5854417">
-    <tag k="contact:phone" v="+420 541 226 426"/>
-    <tag k="covered" v="booth"/>
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:credit_cards" v="no"/>
-    <tag k="payment:debit_cards" v="no"/>
-    <tag k="payment:electronic_purses" v="no"/>
-    <tag k="payment:notes" v="no"/>
-    <tag k="payment:telephone_cards" v="yes"/>
-  </node>
   <node id="3222525727" lat="49.2215510" lon="16.5959525">
     <tag k="disused:amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
@@ -2637,9 +2612,6 @@
   <node id="3947948532" lat="49.9484783" lon="15.7923665">
     <tag k="disused:amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
-  </node>
-  <node id="4031227391" lat="49.9522718" lon="15.7890433">
-    <tag k="disused:amenity" v="telephone"/>
   </node>
   <node id="4625144790" lat="49.9510578" lon="15.7940404">
     <tag k="disused:amenity" v="telephone"/>
