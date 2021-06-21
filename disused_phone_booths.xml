@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.56.3 eb200aeb">
+<osm version="0.6" generator="Overpass API 0.7.56.8 7d656e78">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
 
   <node id="1882098251" lat="49.3984675" lon="12.8304802">
@@ -875,26 +875,6 @@
   <node id="3948825126" lat="49.1953278" lon="16.6506038">
     <tag k="disused:amenity" v="telephone"/>
   </node>
-  <node id="1203255963" lat="49.2519532" lon="16.5758987">
-    <tag k="contact:phone" v="+420 547 220 206"/>
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="source" v="survey"/>
-  </node>
-  <node id="1239780157" lat="49.2505222" lon="16.5815251">
-    <tag k="contact:phone" v="+420 541 226 703"/>
-    <tag k="covered" v="booth"/>
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:credit_cards" v="no"/>
-    <tag k="payment:debit_cards" v="no"/>
-    <tag k="payment:electronic_purses" v="no"/>
-    <tag k="payment:notes" v="no"/>
-    <tag k="payment:telephone_cards" v="no"/>
-    <tag k="source" v="survey"/>
-  </node>
   <node id="3949166460" lat="49.2057392" lon="16.6741159">
     <tag k="disused:amenity" v="telephone"/>
   </node>
@@ -917,10 +897,6 @@
   <node id="6689744327" lat="49.4008176" lon="16.3610335">
     <tag k="covered" v="booth"/>
     <tag k="disused:amenity" v="telephone"/>
-  </node>
-  <node id="4324950619" lat="49.3091158" lon="16.5325878">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="cz:O2"/>
   </node>
   <node id="4353730623" lat="49.4073083" lon="16.5459875">
     <tag k="disused:amenity" v="telephone"/>
