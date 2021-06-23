@@ -2366,16 +2366,6 @@
     <tag k="operator" v="O2"/>
     <tag k="phone" v="+420485172240"/>
   </node>
-  <node id="4703043984" lat="50.6488798" lon="14.9279075">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
-  <node id="3731178476" lat="50.5856455" lon="15.0049976">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="payment:telephone_cards" v="yes"/>
-    <tag k="phone" v="+420 326 789 286"/>
-  </node>
   <node id="3903503908" lat="50.7043099" lon="14.9400932">
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
@@ -2447,14 +2437,6 @@
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
     <tag k="phone" v="+420481685004"/>
-  </node>
-  <node id="1360468713" lat="50.3402114" lon="16.2743967">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-  </node>
-  <node id="480616922" lat="50.4846790" lon="15.9756766">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
   </node>
   <node id="3139912558" lat="50.2389622" lon="17.4490143">
     <tag k="amenity" v="telephone"/>
