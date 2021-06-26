@@ -1759,9 +1759,6 @@
   <node id="3446442321" lat="49.8281558" lon="18.1894505">
     <tag k="disused:amenity" v="telephone"/>
   </node>
-  <node id="5569761975" lat="49.8453265" lon="18.1693694">
-    <tag k="disused:amenity" v="telephone"/>
-  </node>
   <node id="5338591772" lat="49.8800118" lon="18.1414452">
     <tag k="disused:amenity" v="telephone"/>
     <tag k="operator" v="O2"/>

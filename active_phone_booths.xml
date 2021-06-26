@@ -2361,16 +2361,6 @@
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
   </node>
-  <node id="2998244337" lat="50.7638014" lon="14.8222616">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420485172240"/>
-  </node>
-  <node id="3903503908" lat="50.7043099" lon="14.9400932">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420485179452"/>
-  </node>
   <node id="3903503932" lat="50.8059108" lon="14.0479781">
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
