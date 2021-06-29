@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
-  <time>2021-06-28T02:06:09.859Z</time>
+  <time>2021-06-29T02:03:40.294Z</time>
   <bounds minlat="48.654952500" minlon="12.201528700" maxlat="50.888622000" maxlon="17.880091200"/>
   <wpt lat="49.215036900" lon="13.160284600">
     <name>osm-id 4750657909</name>
@@ -3200,12 +3200,6 @@
     <desc>osm-id 415050996</desc>
     <sym>Telephone</sym>
   </wpt>
-  <wpt lat="50.424586900" lon="14.600802200">
-    <name>osm-id 5418851753</name>
-    <cmt>osm-id 5418851753</cmt>
-    <desc>osm-id 5418851753</desc>
-    <sym>Telephone</sym>
-  </wpt>
   <wpt lat="50.494041800" lon="14.486985600">
     <name>osm-id 540971741</name>
     <cmt>osm-id 540971741</cmt>
@@ -3264,18 +3258,6 @@
     <name>osm-id 5330480053</name>
     <cmt>osm-id 5330480053</cmt>
     <desc>osm-id 5330480053</desc>
-    <sym>Telephone</sym>
-  </wpt>
-  <wpt lat="50.432155600" lon="14.693121500">
-    <name>osm-id 5077513418</name>
-    <cmt>osm-id 5077513418</cmt>
-    <desc>osm-id 5077513418</desc>
-    <sym>Telephone</sym>
-  </wpt>
-  <wpt lat="50.422916800" lon="14.778298600">
-    <name>osm-id 4947593627</name>
-    <cmt>osm-id 4947593627</cmt>
-    <desc>osm-id 4947593627</desc>
     <sym>Telephone</sym>
   </wpt>
   <wpt lat="50.805910800" lon="14.047978100">
@@ -3375,9 +3357,9 @@
     <sym>Telephone</sym>
   </wpt>
   <wpt lat="49.538048000" lon="13.983284700">
-    <name>WPT563</name>
-    <cmt>WPT563</cmt>
-    <desc>WPT563</desc>
+    <name>WPT560</name>
+    <cmt>WPT560</cmt>
+    <desc>WPT560</desc>
     <sym>Telephone</sym>
   </wpt>
   <rte>
