@@ -1,5 +1,5 @@
 Telefonni budky
-560
+557
 disused: Telefonni budky
-730
-Celkem - 1290
+0
+Celkem - 557
