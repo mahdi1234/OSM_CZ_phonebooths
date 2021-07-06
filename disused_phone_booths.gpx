@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
-  <time>2021-07-05T02:02:36.582Z</time>
+  <time>2021-07-06T02:05:42.910Z</time>
   <bounds minlat="48.742982200" minlon="12.275224800" maxlat="50.773727500" maxlon="18.832025300"/>
   <wpt lat="49.398467500" lon="12.830480200">
     <name>osm-id 1882098251</name>
@@ -3233,11 +3233,6 @@
     <name>osm-id 3296112115</name>
     <cmt>osm-id 3296112115</cmt>
     <desc>osm-id 3296112115</desc>
-  </wpt>
-  <wpt lat="49.947084500" lon="15.666430300">
-    <name>osm-id 887051532</name>
-    <cmt>osm-id 887051532</cmt>
-    <desc>dvě telefonní budky vedle sebe</desc>
   </wpt>
   <wpt lat="49.948088500" lon="15.664630700">
     <name>osm-id 3647164915</name>
