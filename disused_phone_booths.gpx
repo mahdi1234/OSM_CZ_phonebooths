@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
-  <time>2021-07-06T02:05:42.910Z</time>
+  <time>2021-07-07T02:04:52.820Z</time>
   <bounds minlat="48.742982200" minlon="12.275224800" maxlat="50.773727500" maxlon="18.832025300"/>
   <wpt lat="49.398467500" lon="12.830480200">
     <name>osm-id 1882098251</name>
@@ -271,6 +271,11 @@
     <name>osm-id 1398204663</name>
     <cmt>osm-id 1398204663</cmt>
     <desc>osm-id 1398204663</desc>
+  </wpt>
+  <wpt lat="49.559575200" lon="13.922709200">
+    <name>osm-id 8899131736</name>
+    <cmt>osm-id 8899131736</cmt>
+    <desc>Poslední telefonní budka odmontována 17. června</desc>
   </wpt>
   <wpt lat="49.661529800" lon="13.956675800">
     <name>osm-id 1965339308</name>

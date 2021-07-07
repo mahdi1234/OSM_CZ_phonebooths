@@ -223,6 +223,10 @@
     <tag k="payment:coins" v="yes"/>
     <tag k="payment:telephone_cards" v="yes"/>
   </node>
+  <node id="8899131736" lat="49.5595752" lon="13.9227092">
+    <tag k="disused:amenity" v="telephone"/>
+    <tag k="note" v="Poslední telefonní budka odmontována 17. června"/>
+  </node>
   <node id="1965339308" lat="49.6615298" lon="13.9566758">
     <tag k="disused:amenity" v="telephone"/>
   </node>
