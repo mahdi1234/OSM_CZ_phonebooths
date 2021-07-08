@@ -953,10 +953,6 @@
   <node id="2088137347" lat="49.6042442" lon="16.3451321">
     <tag k="disused:amenity" v="telephone"/>
   </node>
-  <node id="3163774513" lat="49.6358147" lon="16.2255415">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
   <node id="3324958070" lat="49.7895834" lon="15.9716680">
     <tag k="disused:amenity" v="telephone"/>
     <tag k="payment:telephone_cards" v="yes"/>
