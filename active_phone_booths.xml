@@ -1053,14 +1053,6 @@
     <tag k="amenity" v="telephone"/>
     <tag k="source" v="survey"/>
   </node>
-  <node id="477363283" lat="49.6491665" lon="15.3371497">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-  </node>
-  <node id="8668096078" lat="49.6992399" lon="15.3328445">
-    <tag k="amenity" v="telephone"/>
-    <tag k="covered" v="booth"/>
-  </node>
   <node id="2000451815" lat="49.7707442" lon="15.2710913">
     <tag k="amenity" v="telephone"/>
   </node>
@@ -2311,27 +2303,10 @@
     <tag k="operator" v="O2"/>
     <tag k="phone" v="+420493522153"/>
   </node>
-  <node id="7454503516" lat="50.5101792" lon="15.2259269">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420 481 381 007"/>
-  </node>
-  <node id="4717844046" lat="50.5203909" lon="15.3002382">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
   <node id="5420769108" lat="50.3959336" lon="15.4711183">
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
     <tag k="phone" v="+420493597001"/>
-  </node>
-  <node id="2559592352" lat="50.4585026" lon="15.3383921">
-    <tag k="amenity" v="telephone"/>
-  </node>
-  <node id="3904019975" lat="50.4941952" lon="15.3778151">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420493591000"/>
   </node>
   <node id="3904019992" lat="50.6050022" lon="15.4015910">
     <tag k="amenity" v="telephone"/>

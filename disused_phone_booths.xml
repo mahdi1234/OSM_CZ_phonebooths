@@ -54,10 +54,6 @@
     <tag k="disused:amenity" v="telephone"/>
     <tag k="operator" v="Telefónica O2"/>
   </node>
-  <node id="925137507" lat="49.9712951" lon="12.7041029">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-  </node>
   <node id="2274966535" lat="49.9759929" lon="12.7029633">
     <tag k="disused:amenity" v="telephone"/>
   </node>
