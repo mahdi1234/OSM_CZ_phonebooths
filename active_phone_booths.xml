@@ -233,11 +233,6 @@
     <tag k="amenity" v="telephone"/>
     <tag k="source" v="survey"/>
   </node>
-  <node id="2472759224" lat="49.7449077" lon="13.3776278">
-    <tag k="amenity" v="telephone"/>
-    <tag k="check_date" v="2021-02-22"/>
-    <tag k="source" v="survey"/>
-  </node>
   <node id="330863019" lat="49.7374828" lon="13.3933165">
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="Telefónica O2"/>

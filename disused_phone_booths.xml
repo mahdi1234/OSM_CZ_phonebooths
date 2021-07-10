@@ -879,13 +879,6 @@
   <node id="4829027291" lat="49.3211040" lon="16.4218204">
     <tag k="disused:amenity" v="telephone"/>
   </node>
-  <node id="1576970007" lat="49.3115464" lon="16.4470176">
-    <tag k="disused:amenity" v="telephone"/>
-  </node>
-  <node id="6689744327" lat="49.4008176" lon="16.3610335">
-    <tag k="covered" v="booth"/>
-    <tag k="disused:amenity" v="telephone"/>
-  </node>
   <node id="4353730623" lat="49.4073083" lon="16.5459875">
     <tag k="disused:amenity" v="telephone"/>
     <tag k="operator" v="cz:O2"/>
@@ -1062,7 +1055,7 @@
     <tag k="disused:amenity" v="telephone"/>
   </node>
   <node id="2732357362" lat="48.7565406" lon="16.8923644">
-    <tag k="was:amenity" v="telephone"/>
+    <tag k="disused:amenity" v="telephone"/>
   </node>
   <node id="3969471967" lat="48.7998698" lon="16.8036059">
     <tag k="disused:amenity" v="telephone"/>
@@ -2100,7 +2093,7 @@
     <tag k="disused:amenity" v="telephone"/>
   </node>
   <node id="1746347013" lat="50.1334809" lon="14.4158504">
-    <tag k="was:amenity" v="telephone"/>
+    <tag k="disused:amenity" v="telephone"/>
   </node>
   <node id="415092597" lat="50.1084708" lon="14.4409168">
     <tag k="disused:amenity" v="telephone"/>
@@ -2127,7 +2120,7 @@
     <tag k="disused:amenity" v="telephone"/>
   </node>
   <node id="530289139" lat="50.1149734" lon="14.4491112">
-    <tag k="was:amenity" v="telephone"/>
+    <tag k="disused:amenity" v="telephone"/>
   </node>
   <node id="321225831" lat="50.1245882" lon="14.4559073">
     <tag k="disused:amenity" v="telephone"/>
@@ -2142,24 +2135,24 @@
     <tag k="layer" v="-1"/>
   </node>
   <node id="1521206097" lat="50.1157050" lon="14.4659730">
-    <tag k="was:amenity" v="telephone"/>
+    <tag k="disused:amenity" v="telephone"/>
   </node>
   <node id="1626803191" lat="50.1157489" lon="14.4688573">
-    <tag k="was:amenity" v="telephone"/>
+    <tag k="disused:amenity" v="telephone"/>
   </node>
   <node id="906681896" lat="50.1280225" lon="14.4602980">
-    <tag k="was:amenity" v="telephone"/>
+    <tag k="disused:amenity" v="telephone"/>
   </node>
   <node id="346315792" lat="50.1260825" lon="14.4693129">
     <tag k="historic:amenity" v="telephone"/>
     <tag k="operator" v="Telefónica O2"/>
   </node>
   <node id="407155838" lat="50.1274241" lon="14.4684281">
+    <tag k="disused:amenity" v="telephone"/>
     <tag k="operator" v="Telefónica"/>
-    <tag k="was:amenity" v="telephone"/>
   </node>
   <node id="407155854" lat="50.1268784" lon="14.4678850">
-    <tag k="was:amenity" v="telephone"/>
+    <tag k="disused:amenity" v="telephone"/>
   </node>
   <node id="667212551" lat="50.1266095" lon="14.4698418">
     <tag k="disused:amenity" v="telephone"/>
@@ -2189,7 +2182,7 @@
     <tag k="operator" v="Telefónica O2"/>
   </node>
   <node id="320810946" lat="50.0431416" lon="14.5570300">
-    <tag k="abandoned:amenity" v="telephone"/>
+    <tag k="disused:amenity" v="telephone"/>
     <tag k="operator" v="Telefónica O2"/>
   </node>
   <node id="822568149" lat="50.0342487" lon="14.5638113">
@@ -2218,7 +2211,7 @@
     <tag k="disused:amenity" v="telephone"/>
   </node>
   <node id="3986009449" lat="50.1284180" lon="14.4773008">
-    <tag k="was:amenity" v="telephone"/>
+    <tag k="disused:amenity" v="telephone"/>
   </node>
   <node id="233010802" lat="50.1310952" lon="14.4864261">
     <tag k="disused:amenity" v="telephone"/>
@@ -2259,7 +2252,7 @@
     <tag k="operator" v="Telefónica O2"/>
   </node>
   <node id="1440246586" lat="50.1753330" lon="14.4124119">
-    <tag k="was:amenity" v="telephone"/>
+    <tag k="disused:amenity" v="telephone"/>
   </node>
   <node id="3015968128" lat="50.1526570" lon="14.4501512">
     <tag k="disused:amenity" v="telephone"/>
@@ -2323,7 +2316,7 @@
     <tag k="operator" v="Telefónica O2"/>
   </node>
   <node id="1415200328" lat="50.1508375" lon="14.5066639">
-    <tag k="was:amenity" v="telephone"/>
+    <tag k="disused:amenity" v="telephone"/>
   </node>
   <node id="1911191427" lat="50.1650600" lon="14.4839722">
     <tag k="disused:amenity" v="telephone"/>
@@ -2379,7 +2372,7 @@
     <tag k="operator" v="Telefónica O2"/>
   </node>
   <node id="82580059" lat="50.2546144" lon="14.5205260">
-    <tag k="was:amenity" v="telephone"/>
+    <tag k="disused:amenity" v="telephone"/>
   </node>
   <node id="82580058" lat="50.2584482" lon="14.5161381">
     <tag k="disused:amenity" v="telephone"/>
