@@ -1571,10 +1571,6 @@
     <tag k="note" v="dvě telefonní budky vedle sebe"/>
     <tag k="operator" v="Telefónica O2"/>
   </node>
-  <node id="353196345" lat="50.0746526" lon="14.4376295">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-  </node>
   <node id="369388162" lat="50.0731636" lon="14.4418489">
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="Telefónica O2"/>
