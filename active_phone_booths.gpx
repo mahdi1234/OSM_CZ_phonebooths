@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
-  <time>2021-07-14T02:06:14.656Z</time>
+  <time>2021-07-15T02:10:56.822Z</time>
   <bounds minlat="48.654952500" minlon="12.201528700" maxlat="50.805910800" maxlon="17.880091200"/>
   <wpt lat="49.215036900" lon="13.160284600">
     <name>osm-id 4750657909</name>
@@ -2096,36 +2096,6 @@
     <desc>osm-id 4799113131</desc>
     <sym>Telephone</sym>
   </wpt>
-  <wpt lat="50.075040700" lon="14.435472400">
-    <name>osm-id 305817758</name>
-    <cmt>osm-id 305817758</cmt>
-    <desc>2 budky vedle sebe</desc>
-    <sym>Telephone</sym>
-  </wpt>
-  <wpt lat="50.077153000" lon="14.431970300">
-    <name>osm-id 359887571</name>
-    <cmt>osm-id 359887571</cmt>
-    <desc>dvě telefonní budky vedle sebe</desc>
-    <sym>Telephone</sym>
-  </wpt>
-  <wpt lat="50.074355400" lon="14.435104900">
-    <name>osm-id 359908214</name>
-    <cmt>osm-id 359908214</cmt>
-    <desc>dvě telefonní budky vedle sebe</desc>
-    <sym>Telephone</sym>
-  </wpt>
-  <wpt lat="50.073234500" lon="14.433280100">
-    <name>osm-id 359917164</name>
-    <cmt>osm-id 359917164</cmt>
-    <desc>dvě telefonní budky vedle sebe</desc>
-    <sym>Telephone</sym>
-  </wpt>
-  <wpt lat="50.077428300" lon="14.438977500">
-    <name>osm-id 321699912</name>
-    <cmt>osm-id 321699912</cmt>
-    <desc>dvě telefonní budky vedle sebe</desc>
-    <sym>Telephone</sym>
-  </wpt>
   <wpt lat="50.073163600" lon="14.441848900">
     <name>osm-id 369388162</name>
     <cmt>osm-id 369388162</cmt>
@@ -2526,12 +2496,6 @@
     <name>osm-id 488588577</name>
     <cmt>osm-id 488588577</cmt>
     <desc>2 telefonní budky vedle sebe</desc>
-    <sym>Telephone</sym>
-  </wpt>
-  <wpt lat="50.092059800" lon="14.433326000">
-    <name>osm-id 1102915930</name>
-    <cmt>osm-id 1102915930</cmt>
-    <desc>osm-id 1102915930</desc>
     <sym>Telephone</sym>
   </wpt>
   <wpt lat="50.087304700" lon="14.434367900">
@@ -3177,9 +3141,9 @@
     <sym>Telephone</sym>
   </wpt>
   <wpt lat="49.538048000" lon="13.983284700">
-    <name>WPT530</name>
-    <cmt>WPT530</cmt>
-    <desc>WPT530</desc>
+    <name>WPT524</name>
+    <cmt>WPT524</cmt>
+    <desc>WPT524</desc>
     <sym>Telephone</sym>
   </wpt>
   <rte>
