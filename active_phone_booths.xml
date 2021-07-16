@@ -1457,10 +1457,6 @@
   <node id="2865756603" lat="50.0732372" lon="14.4212748">
     <tag k="amenity" v="telephone"/>
   </node>
-  <node id="305304730" lat="50.0757831" lon="14.4292921">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
   <node id="305808399" lat="50.0754765" lon="14.4261933">
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="Telefónica O2"/>
