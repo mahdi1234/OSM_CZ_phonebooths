@@ -876,9 +876,6 @@
     <tag k="operator" v="Telefónica O2"/>
     <tag k="source" v="gps;uhul:ortofoto"/>
   </node>
-  <node id="4829027291" lat="49.3211040" lon="16.4218204">
-    <tag k="disused:amenity" v="telephone"/>
-  </node>
   <node id="4353730623" lat="49.4073083" lon="16.5459875">
     <tag k="disused:amenity" v="telephone"/>
     <tag k="operator" v="cz:O2"/>

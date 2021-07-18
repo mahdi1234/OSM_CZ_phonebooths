@@ -1,7 +1,7 @@
 Telefonni budky
-523
+519
 disused: Telefonni budky
-724
+723
 Overeny Telefonni budky
 2
-Celkem - 1249
+Celkem - 1244
