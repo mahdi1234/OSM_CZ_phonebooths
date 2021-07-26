@@ -1,7 +1,7 @@
 Telefonni budky
-515
+512
 disused: Telefonni budky
 721
 Overeny Telefonni budky
 2
-Celkem - 1238
+Celkem - 1235

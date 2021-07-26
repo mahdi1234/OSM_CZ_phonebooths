@@ -996,18 +996,10 @@
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="Telefónica O2"/>
   </node>
-  <node id="516955943" lat="49.5966969" lon="14.8403464">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-  </node>
   <node id="7286051858" lat="49.8715342" lon="14.9154210">
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
     <tag k="phone" v="+420 327 321 846"/>
-  </node>
-  <node id="437368801" lat="48.9807141" lon="15.5346375">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
   </node>
   <node id="2615311323" lat="48.9678347" lon="15.5883671">
     <tag k="amenity" v="telephone"/>
@@ -1347,11 +1339,6 @@
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="Telefónica O2"/>
     <tag k="phone" v="+420241733593"/>
-  </node>
-  <node id="394693192" lat="50.0441537" lon="14.4492056">
-    <tag k="amenity" v="telephone"/>
-    <tag k="note" v="dvě telefonní budky vedle sebe, v podchodu"/>
-    <tag k="operator" v="Telefónica O2"/>
   </node>
   <node id="290017050" lat="50.0421384" lon="14.4605975">
     <tag k="amenity" v="telephone"/>
