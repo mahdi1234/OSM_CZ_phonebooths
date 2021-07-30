@@ -2188,11 +2188,6 @@
     <tag k="operator" v="Telefonica O2"/>
     <tag k="source" v="gps"/>
   </node>
-  <node id="3914967151" lat="50.3754474" lon="15.1387040">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420493596168"/>
-  </node>
   <node id="5417949226" lat="50.4123402" lon="15.2950607">
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
