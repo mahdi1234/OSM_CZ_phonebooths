@@ -1,7 +1,7 @@
 Telefonni budky
-511
+510
 disused: Telefonni budky
 720
 Overeny Telefonni budky
 2
-Celkem - 1233
+Celkem - 1232

@@ -2671,12 +2671,6 @@
     <desc>automat v podchodu metra</desc>
     <sym>Telephone</sym>
   </wpt>
-  <wpt lat="50.013276300" lon="14.513570300">
-    <name>osm-id 1431098868</name>
-    <cmt>osm-id 1431098868</cmt>
-    <desc>osm-id 1431098868</desc>
-    <sym>Telephone</sym>
-  </wpt>
   <wpt lat="50.032066200" lon="14.509061000">
     <name>osm-id 1094586228</name>
     <cmt>osm-id 1094586228</cmt>
@@ -3062,9 +3056,9 @@
     <sym>Telephone</sym>
   </wpt>
   <wpt lat="49.538048000" lon="13.983284700">
-    <name>WPT511</name>
-    <cmt>WPT511</cmt>
-    <desc>WPT511</desc>
+    <name>WPT510</name>
+    <cmt>WPT510</cmt>
+    <desc>WPT510</desc>
     <sym>Telephone</sym>
   </wpt>
   <rte>

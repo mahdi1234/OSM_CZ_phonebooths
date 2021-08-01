@@ -1936,9 +1936,6 @@
     <tag k="note" v="automat v podchodu metra"/>
     <tag k="operator" v="Telefónica O2"/>
   </node>
-  <node id="1431098868" lat="50.0132763" lon="14.5135703">
-    <tag k="amenity" v="telephone"/>
-  </node>
   <node id="1094586228" lat="50.0320662" lon="14.5090610">
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="Telefónica O2"/>
