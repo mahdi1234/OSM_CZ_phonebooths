@@ -1,7 +1,7 @@
 Telefonni budky
 510
 disused: Telefonni budky
-720
+707
 Overeny Telefonni budky
 2
-Celkem - 1232
+Celkem - 1219

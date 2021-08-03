@@ -2500,9 +2500,6 @@
     <tag k="payment:telephone_cards" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3411144980" lat="50.0800728" lon="15.6487927">
-    <tag k="disused:amenity" v="telephone"/>
-  </node>
   <node id="3222321436" lat="49.9546396" lon="15.7780253">
     <tag k="disused:amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
@@ -2529,40 +2526,6 @@
     <tag k="disused:amenity" v="telephone"/>
     <tag k="operator" v="Telefónica O2"/>
   </node>
-  <node id="5433927363" lat="50.0190118" lon="15.7713552">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
-  <node id="4171833608" lat="50.0205938" lon="15.7588572">
-    <tag k="disused:amenity" v="telephone"/>
-  </node>
-  <node id="601584582" lat="50.0329532" lon="15.7588887">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-  </node>
-  <node id="886632183" lat="50.0325120" lon="15.7568324">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-  </node>
-  <node id="2001850954" lat="50.0258659" lon="15.7691225">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="payment:coins" v="no"/>
-  </node>
-  <node id="5105830918" lat="50.0232321" lon="15.7714460">
-    <tag k="disused:amenity" v="telephone"/>
-  </node>
-  <node id="676747652" lat="50.0251491" lon="15.7785126">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-  </node>
-  <node id="2470742353" lat="50.0290607" lon="15.7742200">
-    <tag k="disused:amenity" v="telephone"/>
-  </node>
-  <node id="676747657" lat="50.0281459" lon="15.7792766">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-  </node>
   <node id="301804260" lat="49.9940258" lon="15.8011521">
     <tag k="disused:amenity" v="telephone"/>
     <tag k="operator" v="Telefónica O2"/>
@@ -2572,12 +2535,6 @@
     <tag k="operator" v="Telefónica Czech Republic"/>
     <tag k="payment:telephone_cards" v="yes"/>
     <tag k="phone" v="+420469692006"/>
-  </node>
-  <node id="4011531568" lat="50.0353269" lon="15.7658542">
-    <tag k="disused:amenity" v="telephone"/>
-  </node>
-  <node id="4011526028" lat="50.0334840" lon="15.7724446">
-    <tag k="disused:amenity" v="telephone"/>
   </node>
   <node id="3939186941" lat="50.2137221" lon="15.8109773">
     <tag k="disused:amenity" v="telephone"/>
@@ -2589,9 +2546,6 @@
     <tag k="disused:amenity" v="telephone"/>
   </node>
   <node id="3939188693" lat="50.2134316" lon="15.8154234">
-    <tag k="disused:amenity" v="telephone"/>
-  </node>
-  <node id="4884971960" lat="50.2052198" lon="15.8204929">
     <tag k="disused:amenity" v="telephone"/>
   </node>
   <node id="3896387192" lat="49.9509946" lon="16.1601547">

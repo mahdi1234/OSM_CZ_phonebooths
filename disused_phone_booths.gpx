@@ -3203,11 +3203,6 @@
     <cmt>osm-id 3647164915</cmt>
     <desc>osm-id 3647164915</desc>
   </wpt>
-  <wpt lat="50.080072800" lon="15.648792700">
-    <name>osm-id 3411144980</name>
-    <cmt>osm-id 3411144980</cmt>
-    <desc>osm-id 3411144980</desc>
-  </wpt>
   <wpt lat="49.954639600" lon="15.778025300">
     <name>osm-id 3222321436</name>
     <cmt>osm-id 3222321436</cmt>
@@ -3243,51 +3238,6 @@
     <cmt>osm-id 886785425</cmt>
     <desc>osm-id 886785425</desc>
   </wpt>
-  <wpt lat="50.019011800" lon="15.771355200">
-    <name>osm-id 5433927363</name>
-    <cmt>osm-id 5433927363</cmt>
-    <desc>osm-id 5433927363</desc>
-  </wpt>
-  <wpt lat="50.020593800" lon="15.758857200">
-    <name>osm-id 4171833608</name>
-    <cmt>osm-id 4171833608</cmt>
-    <desc>osm-id 4171833608</desc>
-  </wpt>
-  <wpt lat="50.032953200" lon="15.758888700">
-    <name>osm-id 601584582</name>
-    <cmt>osm-id 601584582</cmt>
-    <desc>osm-id 601584582</desc>
-  </wpt>
-  <wpt lat="50.032512000" lon="15.756832400">
-    <name>osm-id 886632183</name>
-    <cmt>osm-id 886632183</cmt>
-    <desc>osm-id 886632183</desc>
-  </wpt>
-  <wpt lat="50.025865900" lon="15.769122500">
-    <name>osm-id 2001850954</name>
-    <cmt>osm-id 2001850954</cmt>
-    <desc>osm-id 2001850954</desc>
-  </wpt>
-  <wpt lat="50.023232100" lon="15.771446000">
-    <name>osm-id 5105830918</name>
-    <cmt>osm-id 5105830918</cmt>
-    <desc>osm-id 5105830918</desc>
-  </wpt>
-  <wpt lat="50.025149100" lon="15.778512600">
-    <name>osm-id 676747652</name>
-    <cmt>osm-id 676747652</cmt>
-    <desc>osm-id 676747652</desc>
-  </wpt>
-  <wpt lat="50.029060700" lon="15.774220000">
-    <name>osm-id 2470742353</name>
-    <cmt>osm-id 2470742353</cmt>
-    <desc>osm-id 2470742353</desc>
-  </wpt>
-  <wpt lat="50.028145900" lon="15.779276600">
-    <name>osm-id 676747657</name>
-    <cmt>osm-id 676747657</cmt>
-    <desc>osm-id 676747657</desc>
-  </wpt>
   <wpt lat="49.994025800" lon="15.801152100">
     <name>osm-id 301804260</name>
     <cmt>osm-id 301804260</cmt>
@@ -3297,16 +3247,6 @@
     <name>osm-id 2835537644</name>
     <cmt>osm-id 2835537644</cmt>
     <desc>osm-id 2835537644</desc>
-  </wpt>
-  <wpt lat="50.035326900" lon="15.765854200">
-    <name>osm-id 4011531568</name>
-    <cmt>osm-id 4011531568</cmt>
-    <desc>osm-id 4011531568</desc>
-  </wpt>
-  <wpt lat="50.033484000" lon="15.772444600">
-    <name>osm-id 4011526028</name>
-    <cmt>osm-id 4011526028</cmt>
-    <desc>osm-id 4011526028</desc>
   </wpt>
   <wpt lat="50.213722100" lon="15.810977300">
     <name>osm-id 3939186941</name>
@@ -3327,11 +3267,6 @@
     <name>osm-id 3939188693</name>
     <cmt>osm-id 3939188693</cmt>
     <desc>osm-id 3939188693</desc>
-  </wpt>
-  <wpt lat="50.205219800" lon="15.820492900">
-    <name>osm-id 4884971960</name>
-    <cmt>osm-id 4884971960</cmt>
-    <desc>osm-id 4884971960</desc>
   </wpt>
   <wpt lat="49.950994600" lon="16.160154700">
     <name>osm-id 3896387192</name>
