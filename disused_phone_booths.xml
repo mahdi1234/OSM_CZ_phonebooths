@@ -1129,11 +1129,6 @@
   <node id="3947968418" lat="49.2772121" lon="16.9806916">
     <tag k="disused:amenity" v="telephone"/>
   </node>
-  <node id="2637000592" lat="49.1350159" lon="17.0473606">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-    <tag k="source" v="survey"/>
-  </node>
   <node id="6002641818" lat="49.2778930" lon="17.1737242">
     <tag k="disused:amenity" v="telephone"/>
   </node>
