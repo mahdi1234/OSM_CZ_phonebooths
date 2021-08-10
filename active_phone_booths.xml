@@ -523,10 +523,6 @@
   <node id="7099374763" lat="48.8048583" lon="14.3118899">
     <tag k="amenity" v="telephone"/>
   </node>
-  <node id="3610294194" lat="48.8096790" lon="14.3143268">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
   <node id="7133447528" lat="48.8238651" lon="14.3293417">
     <tag k="amenity" v="telephone"/>
     <tag k="covered" v="yes"/>
