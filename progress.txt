@@ -1,7 +1,7 @@
 Telefonni budky
-504
+502
 disused: Telefonni budky
 706
 Overeny Telefonni budky
 2
-Celkem - 1212
+Celkem - 1210
