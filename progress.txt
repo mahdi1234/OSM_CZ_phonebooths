@@ -1,7 +1,7 @@
 Telefonni budky
 496
 disused: Telefonni budky
-706
+700
 Overeny Telefonni budky
 2
-Celkem - 1204
+Celkem - 1198

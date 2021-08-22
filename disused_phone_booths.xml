@@ -943,36 +943,10 @@
   <node id="2737280438" lat="49.5574884" lon="16.4224655">
     <tag k="disused:amenity" v="telephone"/>
   </node>
-  <node id="4685256372" lat="49.5267213" lon="16.6701868">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="cz:O2"/>
-  </node>
-  <node id="5145289503" lat="49.5677238" lon="16.6643327">
-    <tag k="covered" v="booth"/>
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="cz:O2"/>
-    <tag k="phone" v="+420 516 465 432"/>
-  </node>
   <node id="5275904757" lat="49.6063725" lon="16.6505219">
     <tag k="disused:amenity" v="telephone"/>
   </node>
-  <node id="4685261899" lat="49.5294058" lon="16.6914555">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="shelter" v="yes"/>
-  </node>
-  <node id="2998685363" lat="49.5492880" lon="16.7097924">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
-  <node id="2998684754" lat="49.5099000" lon="16.7351443">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
   <node id="2979742820" lat="49.5303909" lon="16.7551791">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
-  <node id="2954646547" lat="49.5783629" lon="16.7217094">
     <tag k="disused:amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
   </node>
