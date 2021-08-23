@@ -149,13 +149,6 @@
     <tag k="amenity" v="telephone"/>
     <tag k="source" v="survey"/>
   </node>
-  <node id="2753476615" lat="49.7646693" lon="13.3204144">
-    <tag k="amenity" v="telephone"/>
-  </node>
-  <node id="2474842222" lat="49.7635632" lon="13.3238076">
-    <tag k="amenity" v="telephone"/>
-    <tag k="source" v="survey"/>
-  </node>
   <node id="2264876585" lat="49.7458760" lon="13.3444356">
     <tag k="amenity" v="telephone"/>
     <tag k="source" v="survey"/>
@@ -1868,21 +1861,9 @@
   <node id="4711791890" lat="50.0225273" lon="14.4865235">
     <tag k="amenity" v="telephone"/>
   </node>
-  <node id="948079644" lat="50.0251662" lon="14.4920225">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-  </node>
-  <node id="1164851111" lat="50.0259560" lon="14.4931747">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-  </node>
   <node id="525500226" lat="50.0323810" lon="14.4849794">
     <tag k="amenity" v="telephone"/>
     <tag k="note" v="dva telefonní automaty"/>
-    <tag k="operator" v="Telefónica O2"/>
-  </node>
-  <node id="1103244675" lat="50.0281873" lon="14.4897552">
-    <tag k="amenity" v="telephone"/>
     <tag k="operator" v="Telefónica O2"/>
   </node>
   <node id="332147143" lat="50.0312327" lon="14.4917281">
