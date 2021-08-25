@@ -11,5 +11,10 @@
     <tag k="check_date" v="2021-07-10"/>
     <tag k="disused:amenity" v="telephone"/>
   </node>
+  <node id="553713137" lat="50.1137817" lon="14.6039197">
+    <tag k="amenity" v="telephone"/>
+    <tag k="check_date" v="2021-08-24"/>
+    <tag k="operator" v="Telefónica O2"/>
+  </node>
 
 </osm>

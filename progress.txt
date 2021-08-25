@@ -1,7 +1,7 @@
 Telefonni budky
-491
+489
 disused: Telefonni budky
 700
 Overeny Telefonni budky
-2
-Celkem - 1193
+3
+Celkem - 1192
