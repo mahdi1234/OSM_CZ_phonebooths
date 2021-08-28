@@ -1015,12 +1015,6 @@
     <desc>osm-id 5941440356</desc>
     <sym>Telephone</sym>
   </wpt>
-  <wpt lat="49.255294200" lon="13.915162400">
-    <name>osm-id 1864839412</name>
-    <cmt>osm-id 1864839412</cmt>
-    <desc>osm-id 1864839412</desc>
-    <sym>Telephone</sym>
-  </wpt>
   <wpt lat="49.091901600" lon="14.224585500">
     <name>osm-id 5503549460</name>
     <cmt>osm-id 5503549460</cmt>
@@ -2089,12 +2083,6 @@
     <desc>osm-id 359953907</desc>
     <sym>Telephone</sym>
   </wpt>
-  <wpt lat="50.078938700" lon="14.454840800">
-    <name>osm-id 2409213438</name>
-    <cmt>osm-id 2409213438</cmt>
-    <desc>osm-id 2409213438</desc>
-    <sym>Telephone</sym>
-  </wpt>
   <wpt lat="50.084711400" lon="14.446215000">
     <name>osm-id 305825322</name>
     <cmt>osm-id 305825322</cmt>
@@ -2539,12 +2527,6 @@
     <desc>osm-id 4711791890</desc>
     <sym>Telephone</sym>
   </wpt>
-  <wpt lat="50.032381000" lon="14.484979400">
-    <name>osm-id 525500226</name>
-    <cmt>osm-id 525500226</cmt>
-    <desc>dva telefonní automaty</desc>
-    <sym>Telephone</sym>
-  </wpt>
   <wpt lat="50.031232700" lon="14.491728100">
     <name>osm-id 332147143</name>
     <cmt>osm-id 332147143</cmt>
@@ -2906,9 +2888,9 @@
     <sym>Telephone</sym>
   </wpt>
   <wpt lat="49.538048000" lon="13.983284700">
-    <name>WPT485</name>
-    <cmt>WPT485</cmt>
-    <desc>WPT485</desc>
+    <name>WPT482</name>
+    <cmt>WPT482</cmt>
+    <desc>WPT482</desc>
     <sym>Telephone</sym>
   </wpt>
   <rte>
