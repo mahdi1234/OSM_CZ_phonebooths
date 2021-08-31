@@ -1,7 +1,7 @@
 Telefonni budky
-479
+477
 disused: Telefonni budky
-699
+698
 Overeny Telefonni budky
 3
-Celkem - 1181
+Celkem - 1178

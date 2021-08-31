@@ -6,10 +6,6 @@
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="Telefónica O2"/>
   </node>
-  <node id="3881197562" lat="49.1052158" lon="13.3796542">
-    <tag k="amenity" v="telephone"/>
-    <tag k="name:de" v="Telefonzelle"/>
-  </node>
   <node id="7033868120" lat="49.3603531" lon="13.3538269">
     <tag k="amenity" v="telephone"/>
     <tag k="covered" v="booth"/>
@@ -1535,11 +1531,6 @@
   </node>
   <node id="2494978592" lat="50.0824234" lon="14.4518258">
     <tag k="amenity" v="telephone"/>
-  </node>
-  <node id="308835896" lat="50.0778037" lon="14.4627099">
-    <tag k="amenity" v="telephone"/>
-    <tag k="note" v="2 budky vedle sebe"/>
-    <tag k="operator" v="Telefónica O2"/>
   </node>
   <node id="305832268" lat="50.0823811" lon="14.4577760">
     <tag k="amenity" v="telephone"/>

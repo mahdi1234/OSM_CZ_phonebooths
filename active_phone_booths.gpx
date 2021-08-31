@@ -7,12 +7,6 @@
     <desc>osm-id 4750657909</desc>
     <sym>Telephone</sym>
   </wpt>
-  <wpt lat="49.105215800" lon="13.379654200">
-    <name>osm-id 3881197562</name>
-    <cmt>osm-id 3881197562</cmt>
-    <desc>osm-id 3881197562</desc>
-    <sym>Telephone</sym>
-  </wpt>
   <wpt lat="49.360353100" lon="13.353826900">
     <name>osm-id 7033868120</name>
     <cmt>osm-id 7033868120</cmt>
@@ -2107,12 +2101,6 @@
     <desc>osm-id 2494978592</desc>
     <sym>Telephone</sym>
   </wpt>
-  <wpt lat="50.077803700" lon="14.462709900">
-    <name>osm-id 308835896</name>
-    <cmt>osm-id 308835896</cmt>
-    <desc>2 budky vedle sebe</desc>
-    <sym>Telephone</sym>
-  </wpt>
   <wpt lat="50.082381100" lon="14.457776000">
     <name>osm-id 305832268</name>
     <cmt>osm-id 305832268</cmt>
@@ -2870,9 +2858,9 @@
     <sym>Telephone</sym>
   </wpt>
   <wpt lat="49.538048000" lon="13.983284700">
-    <name>WPT479</name>
-    <cmt>WPT479</cmt>
-    <desc>WPT479</desc>
+    <name>WPT477</name>
+    <cmt>WPT477</cmt>
+    <desc>WPT477</desc>
     <sym>Telephone</sym>
   </wpt>
   <rte>
