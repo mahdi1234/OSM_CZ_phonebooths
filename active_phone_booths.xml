@@ -1806,9 +1806,6 @@
   <node id="2088588200" lat="50.1146002" lon="14.4689189">
     <tag k="amenity" v="telephone"/>
   </node>
-  <node id="4387307341" lat="50.1200003" lon="14.4590457">
-    <tag k="amenity" v="telephone"/>
-  </node>
   <node id="1482388503" lat="50.0026787" lon="14.5151841">
     <tag k="amenity" v="telephone"/>
   </node>

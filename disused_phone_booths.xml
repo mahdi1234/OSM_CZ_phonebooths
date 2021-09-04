@@ -1095,11 +1095,6 @@
     <tag k="operator" v="O2"/>
     <tag k="phone" v="+420517374211"/>
   </node>
-  <node id="2218336654" lat="49.2760938" lon="16.8726171">
-    <tag k="designation" v="Public telephone"/>
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="source" v="local knowledge"/>
-  </node>
   <node id="3947968418" lat="49.2772121" lon="16.9806916">
     <tag k="disused:amenity" v="telephone"/>
   </node>
