@@ -879,10 +879,6 @@
     <tag k="payment:telephone_cards" v="yes"/>
     <tag k="phone" v="+420 516 431 570"/>
   </node>
-  <node id="4961410782" lat="49.3436696" lon="16.7548635">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
   <node id="2670678873" lat="49.3638579" lon="16.7464253">
     <tag k="disused:amenity" v="telephone"/>
     <tag k="source" v="survey"/>
