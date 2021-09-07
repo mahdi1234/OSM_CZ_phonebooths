@@ -642,10 +642,6 @@
     <tag k="operator" v="O2"/>
     <tag k="payment:telephone_cards" v="yes"/>
   </node>
-  <node id="887139195" lat="49.8563842" lon="15.6904036">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-  </node>
   <node id="263448006" lat="49.7484399" lon="15.8838738">
     <tag k="disused:amenity" v="telephone"/>
     <tag k="operator" v="Telefónica O2"/>
