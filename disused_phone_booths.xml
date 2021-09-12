@@ -1093,10 +1093,6 @@
   <node id="6002641818" lat="49.2778930" lon="17.1737242">
     <tag k="disused:amenity" v="telephone"/>
   </node>
-  <node id="3053285624" lat="49.3540005" lon="16.7854814">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-  </node>
   <node id="2983767933" lat="49.4112071" lon="16.8209195">
     <tag k="disused:amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
