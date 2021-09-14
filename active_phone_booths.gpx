@@ -1975,24 +1975,6 @@
     <desc>osm-id 369388162</desc>
     <sym>Telephone</sym>
   </wpt>
-  <wpt lat="50.084253700" lon="14.434110300">
-    <name>osm-id 305305830</name>
-    <cmt>osm-id 305305830</cmt>
-    <desc>osm-id 305305830</desc>
-    <sym>Telephone</sym>
-  </wpt>
-  <wpt lat="50.084242800" lon="14.434103700">
-    <name>osm-id 2798031167</name>
-    <cmt>osm-id 2798031167</cmt>
-    <desc>osm-id 2798031167</desc>
-    <sym>Telephone</sym>
-  </wpt>
-  <wpt lat="50.085333100" lon="14.441447700">
-    <name>osm-id 339926031</name>
-    <cmt>osm-id 339926031</cmt>
-    <desc>osm-id 339926031</desc>
-    <sym>Telephone</sym>
-  </wpt>
   <wpt lat="50.071901300" lon="14.449672000">
     <name>osm-id 1305960052</name>
     <cmt>osm-id 1305960052</cmt>
@@ -2065,21 +2047,9 @@
     <desc>osm-id 2494978592</desc>
     <sym>Telephone</sym>
   </wpt>
-  <wpt lat="50.082381100" lon="14.457776000">
-    <name>osm-id 305832268</name>
-    <cmt>osm-id 305832268</cmt>
-    <desc>osm-id 305832268</desc>
-    <sym>Telephone</sym>
-  </wpt>
   <wpt lat="50.082054800" lon="14.459182800">
     <name>osm-id 342315194</name>
     <cmt>osm-id 342315194</cmt>
-    <desc>dvě telefonní budky vedle sebe</desc>
-    <sym>Telephone</sym>
-  </wpt>
-  <wpt lat="50.083122900" lon="14.464061100">
-    <name>osm-id 339048937</name>
-    <cmt>osm-id 339048937</cmt>
     <desc>dvě telefonní budky vedle sebe</desc>
     <sym>Telephone</sym>
   </wpt>
@@ -2191,22 +2161,10 @@
     <desc>osm-id 331950062</desc>
     <sym>Telephone</sym>
   </wpt>
-  <wpt lat="50.100826500" lon="14.397933100">
-    <name>osm-id 370944712</name>
-    <cmt>osm-id 370944712</cmt>
-    <desc>osm-id 370944712</desc>
-    <sym>Telephone</sym>
-  </wpt>
   <wpt lat="50.102723700" lon="14.400572400">
     <name>osm-id 331950087</name>
     <cmt>osm-id 331950087</cmt>
     <desc>osm-id 331950087</desc>
-    <sym>Telephone</sym>
-  </wpt>
-  <wpt lat="50.100526100" lon="14.402638600">
-    <name>osm-id 360171259</name>
-    <cmt>osm-id 360171259</cmt>
-    <desc>osm-id 360171259</desc>
     <sym>Telephone</sym>
   </wpt>
   <wpt lat="50.101455800" lon="14.402123300">
@@ -2798,9 +2756,9 @@
     <sym>Telephone</sym>
   </wpt>
   <wpt lat="49.538048000" lon="13.983284700">
-    <name>WPT467</name>
-    <cmt>WPT467</cmt>
-    <desc>WPT467</desc>
+    <name>WPT460</name>
+    <cmt>WPT460</cmt>
+    <desc>WPT460</desc>
     <sym>Telephone</sym>
   </wpt>
   <rte>
