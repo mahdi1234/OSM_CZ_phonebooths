@@ -1,7 +1,7 @@
 Telefonni budky
-460
+455
 disused: Telefonni budky
 694
 Overeny Telefonni budky
 3
-Celkem - 1157
+Celkem - 1152
