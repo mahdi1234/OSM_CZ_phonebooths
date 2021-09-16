@@ -848,19 +848,6 @@
     <tag k="operator" v="O2"/>
     <tag k="phone" v="+420 5 41214133"/>
   </node>
-  <node id="3949166460" lat="49.2057392" lon="16.6741159">
-    <tag k="disused:amenity" v="telephone"/>
-  </node>
-  <node id="1133928400" lat="49.2052102" lon="16.6792520">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-    <tag k="source" v="gps;uhul:ortofoto"/>
-  </node>
-  <node id="1133928414" lat="49.2093456" lon="16.6853599">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-    <tag k="source" v="gps;uhul:ortofoto"/>
-  </node>
   <node id="4353730623" lat="49.4073083" lon="16.5459875">
     <tag k="disused:amenity" v="telephone"/>
     <tag k="operator" v="cz:O2"/>

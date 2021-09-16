@@ -105,15 +105,7 @@
   <node id="2753476494" lat="49.7558519" lon="13.3069106">
     <tag k="amenity" v="telephone"/>
   </node>
-  <node id="2472759187" lat="49.7439244" lon="13.3287876">
-    <tag k="amenity" v="telephone"/>
-    <tag k="source" v="survey"/>
-  </node>
   <node id="2510875129" lat="49.7428914" lon="13.3299013">
-    <tag k="amenity" v="telephone"/>
-    <tag k="source" v="survey"/>
-  </node>
-  <node id="3151775543" lat="49.7448211" lon="13.3272043">
     <tag k="amenity" v="telephone"/>
     <tag k="source" v="survey"/>
   </node>
@@ -198,10 +190,6 @@
     <tag k="amenity" v="telephone"/>
     <tag k="source" v="survey"/>
   </node>
-  <node id="2661690577" lat="49.7309053" lon="13.3947609">
-    <tag k="amenity" v="telephone"/>
-    <tag k="source" v="survey"/>
-  </node>
   <node id="2786147555" lat="49.7362229" lon="13.3780491">
     <tag k="amenity" v="telephone"/>
     <tag k="source" v="survey"/>
@@ -276,10 +264,6 @@
   </node>
   <node id="2747848435" lat="49.7311019" lon="13.4208890">
     <tag k="amenity" v="telephone"/>
-  </node>
-  <node id="2475742957" lat="49.7328514" lon="13.3994698">
-    <tag k="amenity" v="telephone"/>
-    <tag k="source" v="survey"/>
   </node>
   <node id="2475742958" lat="49.7329421" lon="13.4010986">
     <tag k="amenity" v="telephone"/>
@@ -1389,12 +1373,6 @@
     <tag k="amenity" v="telephone"/>
     <tag k="layer" v="-1"/>
   </node>
-  <node id="323123821" lat="50.0821594" lon="14.4194139">
-    <tag k="amenity" v="telephone"/>
-    <tag k="note" v="uvnitř Tesca / inside My cetre building"/>
-    <tag k="operator" v="Telefónica O2"/>
-    <tag k="phone" v="+420224227094"/>
-  </node>
   <node id="333359737" lat="50.0828597" lon="14.4216014">
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="Telefónica O2"/>
@@ -1954,16 +1932,6 @@
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
     <tag k="phone" v="+420475222611"/>
-  </node>
-  <node id="5435137117" lat="50.3075983" lon="15.2533642">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420493551005"/>
-  </node>
-  <node id="5435137121" lat="50.2952340" lon="15.3203943">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420493551007"/>
   </node>
   <node id="2378271599" lat="49.9323770" lon="15.9196852">
     <tag k="amenity" v="telephone"/>
