@@ -1,7 +1,7 @@
 Telefonni budky
-448
+445
 disused: Telefonni budky
 691
 Overeny Telefonni budky
 3
-Celkem - 1142
+Celkem - 1139
