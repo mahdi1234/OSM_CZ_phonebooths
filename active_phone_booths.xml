@@ -1243,11 +1243,6 @@
     <tag k="operator" v="Telefónica O2"/>
     <tag k="phone" v="+420241734069"/>
   </node>
-  <node id="366700413" lat="50.0454401" lon="14.4478900">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-    <tag k="phone" v="+420241733593"/>
-  </node>
   <node id="290017050" lat="50.0421384" lon="14.4605975">
     <tag k="amenity" v="telephone"/>
     <tag k="note" v="dva telefonní automaty"/>
