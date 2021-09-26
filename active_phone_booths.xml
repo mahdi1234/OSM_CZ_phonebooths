@@ -1513,9 +1513,6 @@
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="Telefónica O2"/>
   </node>
-  <node id="3336079824" lat="50.0880581" lon="14.4180054">
-    <tag k="amenity" v="telephone"/>
-  </node>
   <node id="529132086" lat="50.0879565" lon="14.4287965">
     <tag k="amenity" v="telephone"/>
     <tag k="note" v="dvě telefonní budky vedle sebe"/>

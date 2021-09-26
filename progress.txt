@@ -1,7 +1,7 @@
 Telefonni budky
-438
+437
 disused: Telefonni budky
-690
+689
 Overeny Telefonni budky
 3
-Celkem - 1131
+Celkem - 1129
