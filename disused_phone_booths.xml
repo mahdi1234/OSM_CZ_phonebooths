@@ -42,10 +42,6 @@
     <tag k="operator" v="O2"/>
     <tag k="phone" v="+420354593184"/>
   </node>
-  <node id="766884718" lat="50.1567029" lon="12.2752248">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-  </node>
   <node id="925137526" lat="49.9672340" lon="12.7017909">
     <tag k="disused:amenity" v="telephone"/>
     <tag k="operator" v="Telefónica O2"/>
