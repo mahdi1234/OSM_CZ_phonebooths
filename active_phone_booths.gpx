@@ -1927,12 +1927,6 @@
     <desc>2 telefonní budky vedle sebe</desc>
     <sym>Telephone</sym>
   </wpt>
-  <wpt lat="50.082863100" lon="14.457209000">
-    <name>osm-id 320245516</name>
-    <cmt>osm-id 320245516</cmt>
-    <desc>osm-id 320245516</desc>
-    <sym>Telephone</sym>
-  </wpt>
   <wpt lat="50.082423400" lon="14.451825800">
     <name>osm-id 2494978592</name>
     <cmt>osm-id 2494978592</cmt>
@@ -2353,12 +2347,6 @@
     <desc>osm-id 941532078</desc>
     <sym>Telephone</sym>
   </wpt>
-  <wpt lat="50.054420700" lon="14.507433900">
-    <name>osm-id 823297642</name>
-    <cmt>osm-id 823297642</cmt>
-    <desc>dvě telefonní budky vedle sebe</desc>
-    <sym>Telephone</sym>
-  </wpt>
   <wpt lat="50.047003800" lon="14.515135900">
     <name>osm-id 945075083</name>
     <cmt>osm-id 945075083</cmt>
@@ -2618,9 +2606,9 @@
     <sym>Telephone</sym>
   </wpt>
   <wpt lat="49.538048000" lon="13.983284700">
-    <name>WPT437</name>
-    <cmt>WPT437</cmt>
-    <desc>WPT437</desc>
+    <name>WPT435</name>
+    <cmt>WPT435</cmt>
+    <desc>WPT435</desc>
     <sym>Telephone</sym>
   </wpt>
   <rte>
