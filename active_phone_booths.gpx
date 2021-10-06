@@ -2473,12 +2473,6 @@
     <desc>osm-id 2477316416</desc>
     <sym>Telephone</sym>
   </wpt>
-  <wpt lat="50.108925300" lon="14.473991300">
-    <name>osm-id 4983458199</name>
-    <cmt>osm-id 4983458199</cmt>
-    <desc>osm-id 4983458199</desc>
-    <sym>Telephone</sym>
-  </wpt>
   <wpt lat="50.106495200" lon="14.488223800">
     <name>osm-id 387514142</name>
     <cmt>osm-id 387514142</cmt>
@@ -2606,9 +2600,9 @@
     <sym>Telephone</sym>
   </wpt>
   <wpt lat="49.538048000" lon="13.983284700">
-    <name>WPT435</name>
-    <cmt>WPT435</cmt>
-    <desc>WPT435</desc>
+    <name>WPT434</name>
+    <cmt>WPT434</cmt>
+    <desc>WPT434</desc>
     <sym>Telephone</sym>
   </wpt>
   <rte>

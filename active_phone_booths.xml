@@ -1805,9 +1805,6 @@
   <node id="2477316416" lat="50.1093923" lon="14.4722390">
     <tag k="amenity" v="telephone"/>
   </node>
-  <node id="4983458199" lat="50.1089253" lon="14.4739913">
-    <tag k="amenity" v="telephone"/>
-  </node>
   <node id="387514142" lat="50.1064952" lon="14.4882238">
     <tag k="amenity" v="telephone"/>
     <tag k="note" v="dvě telefonní budky vedle sebe"/>
