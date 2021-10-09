@@ -1,7 +1,7 @@
 Telefonni budky
 428
 disused: Telefonni budky
-0
+688
 Overeny Telefonni budky
-0
-Celkem - 428
+3
+Celkem - 1119

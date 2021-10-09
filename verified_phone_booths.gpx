@@ -1,3 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <bounds minlat="49.311546400" minlon="13.377627800" maxlat="50.113781700" maxlon="16.447017600"/>
+  <wpt lat="49.744907700" lon="13.377627800">
+    <name>osm-id 2472759224</name>
+    <cmt>osm-id 2472759224</cmt>
+    <desc>osm-id 2472759224</desc>
+    <sym>Telephone</sym>
+  </wpt>
+  <wpt lat="49.311546400" lon="16.447017600">
+    <name>osm-id 1576970007</name>
+    <cmt>osm-id 1576970007</cmt>
+    <desc>osm-id 1576970007</desc>
+  </wpt>
+  <wpt lat="50.113781700" lon="14.603919700">
+    <name>osm-id 553713137</name>
+    <cmt>osm-id 553713137</cmt>
+    <desc>osm-id 553713137</desc>
+    <sym>Telephone</sym>
+  </wpt>
 </gpx>

@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<osm version="0.6" generator="Overpass API 0.7.56.8 7d656e78">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
 
+  <node id="2472759224" lat="49.7449077" lon="13.3776278">
+    <tag k="amenity" v="telephone"/>
+    <tag k="check_date" v="2021-02-22"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1576970007" lat="49.3115464" lon="16.4470176">
+    <tag k="check_date" v="2021-07-10"/>
+    <tag k="disused:amenity" v="telephone"/>
+  </node>
+  <node id="553713137" lat="50.1137817" lon="14.6039197">
+    <tag k="amenity" v="telephone"/>
+    <tag k="check_date" v="2021-08-24"/>
+    <tag k="operator" v="Telefónica O2"/>
+  </node>
 
 </osm>
