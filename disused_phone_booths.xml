@@ -839,11 +839,6 @@
   <node id="5105845609" lat="49.1667035" lon="16.7584876">
     <tag k="disused:amenity" v="telephone"/>
   </node>
-  <node id="3222525727" lat="49.2215510" lon="16.5959525">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420 5 41214133"/>
-  </node>
   <node id="4353730623" lat="49.4073083" lon="16.5459875">
     <tag k="disused:amenity" v="telephone"/>
     <tag k="operator" v="cz:O2"/>
