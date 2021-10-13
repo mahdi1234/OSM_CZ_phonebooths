@@ -914,18 +914,6 @@
     <tag k="phone" v="+420 565 432 864"/>
     <tag k="source" v="survey"/>
   </node>
-  <node id="2552275968" lat="49.2999180" lon="15.0762320">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420 565 433 241"/>
-    <tag k="source" v="survey"/>
-  </node>
-  <node id="2552298143" lat="49.3025104" lon="15.0781268">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420 565 433 244"/>
-    <tag k="source" v="survey"/>
-  </node>
   <node id="3481188878" lat="49.4162972" lon="15.0421202">
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
