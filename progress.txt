@@ -1,7 +1,7 @@
 Telefonni budky
-0
+420
 disused: Telefonni budky
-0
+687
 Overeny Telefonni budky
 3
-Celkem - 3
+Celkem - 1110
