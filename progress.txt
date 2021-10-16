@@ -1,7 +1,7 @@
 Telefonni budky
-420
+416
 disused: Telefonni budky
 687
 Overeny Telefonni budky
 3
-Celkem - 1110
+Celkem - 1106
