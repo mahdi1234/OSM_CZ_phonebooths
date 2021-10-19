@@ -1585,9 +1585,6 @@
   <node id="2088588200" lat="50.1146002" lon="14.4689189">
     <tag k="amenity" v="telephone"/>
   </node>
-  <node id="1482388503" lat="50.0026787" lon="14.5151841">
-    <tag k="amenity" v="telephone"/>
-  </node>
   <node id="334399645" lat="50.0327198" lon="14.4818591">
     <tag k="amenity" v="telephone"/>
     <tag k="note" v="dva telefonní automaty vedle sebe"/>
