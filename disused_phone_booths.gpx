@@ -586,11 +586,6 @@
     <cmt>osm-id 4791550692</cmt>
     <desc>osm-id 4791550692</desc>
   </wpt>
-  <wpt lat="49.010674200" lon="16.659432900">
-    <name>osm-id 5352839952</name>
-    <cmt>osm-id 5352839952</cmt>
-    <desc>osm-id 5352839952</desc>
-  </wpt>
   <wpt lat="49.182341500" lon="15.415328700">
     <name>osm-id 376415740</name>
     <cmt>osm-id 376415740</cmt>
@@ -2470,12 +2465,6 @@
     <name>osm-id 5167979382</name>
     <cmt>osm-id 5167979382</cmt>
     <desc>osm-id 5167979382</desc>
-  </wpt>
-  <wpt lat="50.078848700" lon="14.451587900">
-    <name>Knihobudka</name>
-    <cmt>osm-id 2409213436</cmt>
-    <desc>osm-id 2409213436</desc>
-    <sym>amenity:public_bookcase</sym>
   </wpt>
   <wpt lat="50.078482300" lon="14.461568200">
     <name>osm-id 323138067</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.56.8 7d656e78">
+<osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
 
   <node id="1882098251" lat="49.3984675" lon="12.8304802">
@@ -474,11 +474,6 @@
   </node>
   <node id="4791550692" lat="48.9397262" lon="16.7378486">
     <tag k="disused:amenity" v="telephone"/>
-  </node>
-  <node id="5352839952" lat="49.0106742" lon="16.6594329">
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="phone" v="+420547231848"/>
   </node>
   <node id="376415740" lat="49.1823415" lon="15.4153287">
     <tag k="disused:amenity" v="telephone"/>
@@ -1948,12 +1943,6 @@
   </node>
   <node id="5167979382" lat="50.0705967" lon="14.4408289">
     <tag k="historic:amenity" v="telephone"/>
-  </node>
-  <node id="2409213436" lat="50.0788487" lon="14.4515879">
-    <tag k="amenity" v="public_bookcase"/>
-    <tag k="disused:amenity" v="telephone"/>
-    <tag k="name" v="Knihobudka"/>
-    <tag k="public_bookcase:type" v="phone_box"/>
   </node>
   <node id="323138067" lat="50.0784823" lon="14.4615682">
     <tag k="disused:amenity" v="telephone"/>
