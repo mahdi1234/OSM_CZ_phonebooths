@@ -860,6 +860,7 @@
     <name>osm-id 512682892</name>
     <cmt>osm-id 512682892</cmt>
     <desc>osm-id 512682892</desc>
+    <sym>amenity:public_bookcase</sym>
   </wpt>
   <wpt lat="49.114358700" lon="16.426789000">
     <name>osm-id 347315804</name>

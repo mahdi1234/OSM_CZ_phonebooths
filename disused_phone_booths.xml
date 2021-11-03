@@ -700,10 +700,11 @@
     <tag k="source" v="survey"/>
   </node>
   <node id="512682892" lat="49.3418576" lon="16.2583407">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="public_bookcase"/>
     <tag k="disused:amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-    <tag k="payment:telephone_cards" v="yes"/>
-    <tag k="source" v="gps"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="public_bookcase:type" v="wooden_cabinet"/>
   </node>
   <node id="347315804" lat="49.1143587" lon="16.4267890">
     <tag k="disused:amenity" v="telephone"/>
