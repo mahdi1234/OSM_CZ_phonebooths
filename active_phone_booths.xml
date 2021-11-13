@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.56.8 7d656e78">
+<osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
 
   <node id="4750657909" lat="49.2150369" lon="13.1602846">
@@ -40,6 +40,11 @@
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="O2"/>
     <tag k="phone" v="+420374693203"/>
+  </node>
+  <node id="9245644400" lat="49.5613023" lon="13.1976817">
+    <tag k="amenity" v="telephone"/>
+    <tag k="fee" v="yes"/>
+    <tag k="operator" v="O2"/>
   </node>
   <node id="2186431757" lat="49.6307539" lon="13.1353066">
     <tag k="amenity" v="telephone"/>
@@ -1415,14 +1420,6 @@
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="Telefónica O2"/>
   </node>
-  <node id="331950087" lat="50.1027237" lon="14.4005724">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-  </node>
-  <node id="360171290" lat="50.1014558" lon="14.4021233">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="Telefónica O2"/>
-  </node>
   <node id="529132086" lat="50.0879565" lon="14.4287965">
     <tag k="amenity" v="telephone"/>
     <tag k="note" v="dvě telefonní budky vedle sebe"/>
@@ -1525,13 +1522,6 @@
   </node>
   <node id="1968330555" lat="50.0946717" lon="14.4550508">
     <tag k="amenity" v="telephone"/>
-  </node>
-  <node id="4970681940" lat="50.0937477" lon="14.4552069">
-    <tag k="amenity" v="telephone"/>
-    <tag k="operator" v="O2"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:telephone_cards" v="yes"/>
-    <tag k="source" v="survey"/>
   </node>
   <node id="467964157" lat="50.0886523" lon="14.4615271">
     <tag k="amenity" v="telephone"/>
